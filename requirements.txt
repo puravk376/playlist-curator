@@ -6,3 +6,4 @@ matplotlib==3.11.2
 tabulate==0.10.0      # markdown tables in results/summary.md
 pytest==9.1.1         # tests/
 pyarrow==25.0.1       # only needed for scripts/build_paper_toy.py
+streamlit
