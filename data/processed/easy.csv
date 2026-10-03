@@ -1,0 +1,500 @@
+track_id,track_name,track_artist,playlist,danceability,energy,key,loudness,mode,speechiness,acousticness,liveness,valence,tempo,genres,has_genre,split
+1HlGblweLq0eAwnb0NY1EQ,18 and Life,Skid Row,'80s Hard Rock,0.457,0.794,1,-6.624,0,0.0298,0.000384,0.131,0.354,90.439,album rock|glam metal|hard rock|metal|rock,True,train
+6EPRKhUOdiFSQwGBRBbvsZ,Ace of Spades,Motörhead,'80s Hard Rock,0.317,0.981,6,-7.102,1,0.174,0.00242,0.0852,0.234,140.079,album rock|alternative metal|hard rock|metal|rock|speed metal,True,test
+4QPRua3G7RQraiYX2NwdH6,Addicted To That Rush,Mr. Big,'80s Hard Rock,0.46,0.974,2,-5.095,1,0.156,0.0537,0.329,0.444,112.684,glam metal|hard rock,True,test
+6fybp4N6eW3bsFAvARxyVe,Ain't Talkin' 'Bout Love - 2015 Remaster,Van Halen,'80s Hard Rock,0.518,0.938,8,-5.964,0,0.0416,0.021,0.288,0.71,139.138,album rock|classic rock|hard rock|rock,True,train
+1j06ieEC2BOCM0fTmYhn2l,Alone Again,Dokken,'80s Hard Rock,0.298,0.612,3,-9.002,0,0.0379,0.0194,0.0906,0.343,156.727,album rock|classic rock|glam metal|hard rock|metal|rock,True,train
+6q5vdf6Mfkk0eETYzmgokj,Armed And Ready - 2008 Remastered Version,Michael Schenker Group,'80s Hard Rock,0.33,0.963,9,-5.509,1,0.106,0.00388,0.0793,0.734,171.59,album rock|german hard rock|glam metal|hard rock|metal|neo classical metal|rock,True,train
+72hcFp4tYkd3dbNA9dZ3Pv,Bad Medicine,Bon Jovi,'80s Hard Rock,0.555,0.973,9,-3.804,1,0.035,0.048,0.0853,0.805,118.642,glam metal|rock,True,train
+2E7W1X4maFFcjHrVrFA7Vs,Bark at the Moon,Ozzy Osbourne,'80s Hard Rock,0.303,0.961,9,-5.333,0,0.243,0.00253,0.132,0.305,146.591,album rock|birmingham metal|hard rock|metal|rock,True,train
+4KfSdst7rW39C0sfhArdrz,Barracuda,Heart,'80s Hard Rock,0.547,0.691,4,-13.553,0,0.0369,0.015,0.144,0.667,137.148,folk-pop|indie folk|modern rock|new americana|seattle indie|stomp and holler,True,train
+2W7CvGjipq3EmHqNGN7lN9,Breaking the Chains,Dokken,'80s Hard Rock,0.526,0.9,4,-4.76,0,0.0531,0.00914,0.277,0.458,125.349,album rock|classic rock|glam metal|hard rock|metal|rock,True,train
+7LygtNjQ65PSdzVjUnHXQb,Cherry Pie,Warrant,'80s Hard Rock,0.472,0.946,2,-4.591,1,0.145,0.0372,0.352,0.486,177.489,album rock|glam metal|hard rock|rock,True,train
+43thLwzSasUUZEYjYPeJh3,Close My Eyes Forever,Lita Ford,'80s Hard Rock,0.476,0.331,5,-14.884,1,0.0305,0.31,0.172,0.24,130.574,album rock|glam metal|hard rock,True,train
+2b9lp5A6CqSzwOrBfAFhof,Crazy Train,Ozzy Osbourne,'80s Hard Rock,0.453,0.906,9,-4.001,1,0.115,0.361,0.26,0.473,137.575,album rock|birmingham metal|hard rock|metal|rock,True,train
+1Fu3vJJwVKY7c7JnTX3Mvi,Cryin',Vixen,'80s Hard Rock,0.657,0.567,9,-12.871,1,0.0261,0.146,0.0554,0.563,109.007,glam metal|hard rock,True,train
+6FBmHx1FuaSnTnnnaThgbF,Cum on Feel the Noize,Quiet Riot,'80s Hard Rock,0.441,0.908,11,-4.627,0,0.115,0.000183,0.0612,0.632,145.439,album rock|classic rock|glam metal|hard rock|metal|rock,True,train
+7Dtukb9NLJs1i0lohMlIC5,Detroit Rock City,KISS,'80s Hard Rock,0.546,0.91,5,-6.736,1,0.061,0.0442,0.263,0.458,90.58,album rock|classic rock|glam rock|hard rock|metal|rock,True,train
+7wrBlgNqYBAC5yFfO4fnYb,Don't Close Your Eyes,Kix,'80s Hard Rock,0.537,0.382,7,-15.568,0,0.0245,0.0795,0.114,0.338,148.061,album rock|glam metal|hard rock|metal|sleaze rock,True,train
+3vPrFUtWpKT9oNW94NDDEW,Don't Know What You Got (Till It's Gone),Cinderella,'80s Hard Rock,0.36,0.527,9,-9.883,1,0.0289,0.229,0.0536,0.247,132.639,album rock|glam metal|hard rock|metal|rock,True,train
+4bHsxqR3GMrXTxEPLuK5ue,Don't Stop Believin',Journey,'80s Hard Rock,0.5,0.748,4,-9.072,1,0.0363,0.127,0.447,0.514,118.852,album rock|classic rock|hard rock|mellow gold|rock|soft rock,True,train
+4lbhQdbiTpNP7GowZG8KsM,Don't Treat Me Bad,Firehouse,'80s Hard Rock,0.616,0.807,8,-11.4,1,0.0348,0.000303,0.193,0.637,111.054,album rock|glam metal|hard rock|rock,True,train
+5X0bLSho0KTiSQYCI0IOcl,Dr. Feelgood,Mötley Crüe,'80s Hard Rock,0.53,0.952,2,-5.105,1,0.0577,0.000837,0.262,0.433,110.98,glam metal|hard rock|metal|rock|sleaze rock,True,test
+6gQUbFwwdYXlKdmqRoWKJe,Dude (Looks Like A Lady),Aerosmith,'80s Hard Rock,0.54,0.982,4,-2.962,0,0.0458,0.435,0.0457,0.91,126.294,album rock|classic rock|hard rock|rock,True,test
+2mEk0VdrbDJ11DBC6Y92mh,Edge Of A Broken Heart,Vixen,'80s Hard Rock,0.619,0.751,7,-11.568,0,0.0417,0.0113,0.123,0.532,126.079,glam metal|hard rock,True,train
+43GS3mtezoIFiuIZCLLiDY,Every Rose Has Its Thorn - Remastered 2003,Poison,'80s Hard Rock,0.533,0.637,6,-5.571,1,0.0323,0.16,0.369,0.292,140.167,album rock|glam metal|hard rock|rock,True,test
+2KH16WveTQWT6KOG9Rg6e2,Eye of the Tiger,Survivor,'80s Hard Rock,0.817,0.599,0,-9.249,0,0.0328,0.132,0.0873,0.548,108.873,album rock|hard rock|rock|soft rock,True,train
+27kMqdX3aoN3gBndVKlTfR,Fallen Angel - Remastered,Poison,'80s Hard Rock,0.509,0.935,6,-3.633,1,0.0493,0.00864,0.255,0.501,148.062,album rock|glam metal|hard rock|rock,True,train
+5xLyTbCFONUGUuG0LtUxjn,"Girls, Girls, Girls",Mötley Crüe,'80s Hard Rock,0.6,0.931,7,-4.647,1,0.0734,0.0296,0.392,0.542,140.123,glam metal|hard rock|metal|rock|sleaze rock,True,train
+3W1iDAW7PVwlMC2zJIKF0k,Gypsy Road,Cinderella,'80s Hard Rock,0.523,0.88,9,-9.019,1,0.0402,0.00961,0.329,0.553,132.426,album rock|glam metal|hard rock|metal|rock,True,train
+2dEgwtRjYl6TJkIwjRwn6z,Heaven,Warrant,'80s Hard Rock,0.462,0.488,6,-11.143,1,0.0287,0.115,0.128,0.33,145.789,album rock|glam metal|hard rock|rock,True,train
+1brpdmqkx3kSxyqzqXfW7J,Heaven's On Fire,KISS,'80s Hard Rock,0.679,0.866,0,-6.053,1,0.0634,0.00376,0.312,0.785,124.325,album rock|classic rock|glam rock|hard rock|metal|rock,True,test
+3rdxvEfBp86WNcRDLaFEk9,Here I Go Again 87 - 2007 Remastered Version,Whitesnake,'80s Hard Rock,0.39,0.898,7,-4.089,1,0.045,0.207,0.217,0.204,90.703,album rock|british blues|classic rock|glam metal|hard rock|metal|rock,True,train
+5t5rCnsgRBtcKqTB7SbD1Q,High Enough,Damn Yankees,'80s Hard Rock,0.273,0.537,2,-9.612,1,0.0306,0.0241,0.0922,0.232,81.814,album rock|classic rock|glam metal|hard rock|rock,True,train
+57fqmDaokbxZ3TaB0jp39q,Holy Diver,Dio,'80s Hard Rock,0.476,0.901,8,-6.751,1,0.0975,0.0642,0.0557,0.109,91.955,melodic rap|pop rap,True,test
+4zXvB4MoQD8onk0NCZbeHG,Home Sweet Home,Mötley Crüe,'80s Hard Rock,0.403,0.777,5,-6.416,1,0.0354,0.0999,0.124,0.149,76.329,glam metal|hard rock|metal|rock|sleaze rock,True,train
+6QDbGdbJ57Mtkflsg42WV5,Hot for Teacher - 2015 Remaster,Van Halen,'80s Hard Rock,0.551,0.947,2,-4.671,1,0.152,0.000652,0.0637,0.466,127.657,album rock|classic rock|hard rock|rock,True,train
+46Qy1xAr2K7rylRYwdQ6Gw,House of Pain,Faster Pussycat,'80s Hard Rock,0.519,0.61,0,-10.256,1,0.036,0.0766,0.248,0.232,121.324,album rock|glam metal|glam punk|hard rock|sleaze rock,True,train
+0U2TocFjqul3sis3sE5jZl,I Don't Believe In Love - Remastered 2003,Queensrÿche,'80s Hard Rock,0.562,0.991,7,-2.654,1,0.0745,0.0373,0.425,0.266,118.004,album rock|glam metal|hard rock|metal|progressive metal|rock|us power metal,True,train
+2HXixVqzzm9rEUIMAWzshl,I Hate Myself for Loving You,Joan Jett & The Blackhearts,'80s Hard Rock,0.611,0.883,9,-11.225,1,0.0539,0.0846,0.192,0.604,117.928,glam punk|rock,True,test
+4ZpXHlV2vQVfPXUvbDSZ92,I Remember You,Skid Row,'80s Hard Rock,0.345,0.531,0,-12.708,1,0.0305,0.00642,0.14,0.49,176.302,album rock|glam metal|hard rock|metal|rock,True,train
+0gGJO7JM51uAUu7EE2lxx6,I Surrender,Rainbow,'80s Hard Rock,0.498,0.858,7,-5.259,0,0.0661,0.159,0.262,0.778,132.718,indie folk|indie rock|modern alternative rock|modern rock|stomp and holler,True,train
+5F8WPtrurLmNE3tv6Sm14m,I Wanna Be Somebody,W.A.S.P.,'80s Hard Rock,0.296,0.83,1,-7.051,0,0.0505,0.00081,0.263,0.478,164.124,album rock|glam metal|hard rock|metal|rock,True,train
+2ZSCy3P1QzpJySCWA6NRIU,I Was Made For Lovin' You,KISS,'80s Hard Rock,0.768,0.852,4,-6.215,1,0.038,0.213,0.0723,0.867,128.374,album rock|classic rock|glam rock|hard rock|metal|rock,True,train
+5IXUAYqwxmAFj69RWYFzbU,In My Dreams (Re-Recorded / Remastered),Dokken,'80s Hard Rock,0.542,0.839,3,-4.404,0,0.0487,4.91e-05,0.0471,0.611,121.026,album rock|classic rock|glam metal|hard rock|metal|rock,True,train
+5CWWOxTehNz94b4Xs0xFYV,Inside Out,XYZ,'80s Hard Rock,0.426,0.961,8,-4.365,1,0.07,0.013,0.0621,0.616,171.411,,False,train
+3qwnfEm2N8lvD9BaJvOfaW,Is This Love - 2017 Remastered Version,Whitesnake,'80s Hard Rock,0.333,0.79,0,-6.802,1,0.0386,0.109,0.115,0.534,180.356,album rock|british blues|classic rock|glam metal|hard rock|metal|rock,True,train
+2PfBSkCKZDXMsJogMT0wML,Jump,Van Halen,'80s Hard Rock,0.547,0.822,0,-7.201,1,0.0292,0.0745,0.0645,0.774,130.138,album rock|classic rock|hard rock|rock,True,train
+5ZY7Gug850kv4heJcWZGHM,Just Like Paradise,David Lee Roth,'80s Hard Rock,0.611,0.853,2,-4.983,1,0.034,0.0219,0.671,0.376,135.558,album rock|classic rock|glam metal|hard rock|metal|neo classical metal|rock,True,train
+0mDpR6DpKc2DyiGtH0NcX8,Kickstart My Heart,Mötley Crüe,'80s Hard Rock,0.361,0.97,7,-4.817,0,0.284,0.00169,0.357,0.254,179.017,glam metal|hard rock|metal|rock|sleaze rock,True,train
+0kFM6t9htbB53Dg8frGDGh,Kiss Me Deadly,Lita Ford,'80s Hard Rock,0.468,0.743,0,-10.846,1,0.0326,0.00819,0.369,0.648,156.103,album rock|glam metal|hard rock,True,train
+3D5ORNm9spaTcdRx50ksHx,Lay It Down,Ratt,'80s Hard Rock,0.442,0.759,10,-13.475,1,0.0354,0.000402,0.174,0.279,198.117,classical performance|orchestral performance,True,train
+3cXiUuiGpFmZ8OdAWKk8Ck,Lick It Up,KISS,'80s Hard Rock,0.681,0.773,2,-6.051,1,0.058,0.179,0.311,0.547,120.276,album rock|classic rock|glam rock|hard rock|metal|rock,True,train
+7qQnBfwXrw2tZNFG4Uf57N,Livin' On A Prayer,Bon Jovi,'80s Hard Rock,0.52,0.887,0,-3.296,1,0.0349,0.0665,0.186,0.793,122.528,glam metal|rock,True,train
+0IXpUl1fn2QZcBavfuq0H4,Living After Midnight,Judas Priest,'80s Hard Rock,0.61,0.824,4,-6.046,1,0.0534,0.0136,0.0606,0.819,134.992,album rock|birmingham metal|classic rock|hard rock|metal|power metal|rock,True,test
+73jxc8OqPUqXEzsRnCgw8M,Love Song,Tesla,'80s Hard Rock,0.355,0.379,7,-8.172,1,0.0361,0.396,0.15,0.329,164.989,album rock|classic rock|glam metal|hard rock|rock|sacramento indie,True,train
+0S3gpZzlT9Hb7CCSV2owX7,"Mama, I'm Coming Home",Ozzy Osbourne,'80s Hard Rock,0.282,0.656,8,-6.557,1,0.0302,0.0105,0.0892,0.242,139.352,album rock|birmingham metal|hard rock|metal|rock,True,train
+28clONjZmul6FjfO6tZQDE,Metal Health (Bang Your Head),Quiet Riot,'80s Hard Rock,0.494,0.933,2,-5.977,1,0.0808,0.0434,0.228,0.507,121.201,album rock|classic rock|glam metal|hard rock|metal|rock,True,train
+5ZIU2kT1wNjQNclQeVCz5O,Modern Day Cowboy,Tesla,'80s Hard Rock,0.445,0.768,4,-8.836,1,0.0347,0.0127,0.0925,0.32,112.796,album rock|classic rock|glam metal|hard rock|rock|sacramento indie,True,train
+26fZwf1ImE4aUJ4XaqOkUg,No One Like You,Scorpions,'80s Hard Rock,0.511,0.624,9,-10.424,0,0.0403,0.0144,0.128,0.807,118.193,album rock|german hard rock|german metal|german rock|hard rock|metal|rock,True,train
+6LFoyjCI9eFZw3QmN46x2V,Nobody's Fool,Cinderella,'80s Hard Rock,0.367,0.445,9,-13.615,0,0.0286,0.0478,0.199,0.149,67.197,album rock|glam metal|hard rock|metal|rock,True,train
+7pkWZL0kA26s754CwyK0SH,Once Bitten Twice Shy,Great White,'80s Hard Rock,0.723,0.541,0,-14.021,1,0.0303,0.028,0.133,0.607,131.675,album rock|classic rock|glam metal|hard rock|metal|rock,True,test
+6QtDzKo8oVwnOx7Sg7jxUe,Over The Mountain,Ozzy Osbourne,'80s Hard Rock,0.463,0.926,5,-3.563,0,0.12,4.95e-05,0.0868,0.501,131.129,album rock|birmingham metal|hard rock|metal|rock,True,test
+05RgAMGypEvqhNs5hPCbMS,Panama - 2015 Remaster,Van Halen,'80s Hard Rock,0.527,0.978,8,-5.436,1,0.109,0.00124,0.0744,0.463,141.169,album rock|classic rock|hard rock|rock,True,train
+5Q41NLTmGbVPozwHKK7bk2,Paradise City,Guns N' Roses,'80s Hard Rock,0.274,0.949,11,-8.642,1,0.0896,0.0214,0.218,0.497,100.346,glam metal|hard rock|rock,True,train
+1Y373MqadDRtclJNdnUXVc,Paranoid - 2016 Remaster,Black Sabbath,'80s Hard Rock,0.415,0.658,4,-12.051,0,0.0696,4.52e-05,0.176,0.45,163.015,album rock|birmingham metal|classic rock|hard rock|metal|rock|stoner rock|uk doom metal,True,test
+1iQpStZpzBb5TOuTDKJKdj,Poison,Alice Cooper,'80s Hard Rock,0.3,0.894,2,-7.786,0,0.109,0.0515,0.125,0.268,118.631,album rock|blues rock|classic rock|glam metal|glam rock|hard rock|metal|protopunk|rock,True,train
+0PdM2a6oIjqepoEfcJo0RO,Pour Some Sugar On Me - Remastered 2017,Def Leppard,'80s Hard Rock,0.267,0.953,1,-4.899,0,0.096,0.00211,0.283,0.568,84.989,album rock|hard rock|nwobhm|rock,True,train
+2PpNgmrS9mAyrkRAwn6YPq,Rainbow in the Dark,Dio,'80s Hard Rock,0.512,0.947,9,-5.659,0,0.0401,0.000692,0.0283,0.612,117.461,melodic rap|pop rap,True,train
+7990Xs9HQx7FXVIDVPEwj9,Rock And Roll All Nite,KISS,'80s Hard Rock,0.656,0.931,1,-5.827,1,0.0976,0.046,0.0543,0.909,144.747,album rock|classic rock|glam rock|hard rock|metal|rock,True,train
+0XIvZ82aDF7JiSi3ZE320u,Rock You Like A Hurricane,Scorpions,'80s Hard Rock,0.482,0.601,7,-12.846,1,0.0486,0.00853,0.249,0.774,125.619,album rock|german hard rock|german metal|german rock|hard rock|metal|rock,True,train
+4NffXDmI70vw19P5Efoe0T,Rock the Night,Europe,'80s Hard Rock,0.562,0.965,4,-2.789,0,0.0613,0.036,0.326,0.39,105.305,album rock|glam metal|hard rock|rock|swedish hard rock|swedish melodic rock,True,train
+0SFS1LxNP5wgnoDA7nGKQu,Round and Round,Ratt,'80s Hard Rock,0.616,0.965,11,-4.464,1,0.0613,0.0135,0.119,0.405,126.535,classical performance|orchestral performance,True,train
+0X1sqQ652p1sceKM2nJlIJ,Runaway,Bon Jovi,'80s Hard Rock,0.475,0.899,9,-4.321,0,0.0637,0.00375,0.14,0.603,152.445,glam metal|rock,True,test
+3KhF2YiNpJvGpfiCW45R6D,Runnin' with the Devil - 2015 Remaster,Van Halen,'80s Hard Rock,0.472,0.9,8,-6.406,0,0.0582,0.148,0.34,0.42,95.826,album rock|classic rock|hard rock|rock,True,train
+2ZS0wDcdfrJPC86u5aJGo9,Seventeen,Winger,'80s Hard Rock,0.577,0.676,8,-11.931,1,0.0295,0.000895,0.0625,0.676,95.98,album rock|glam metal|hard rock|rock,True,train
+1Qjpl8Kav6rrO92ZuG0OK8,Shake Me,Cinderella,'80s Hard Rock,0.537,0.9,9,-11.88,1,0.0301,0.00575,0.2,0.549,132.742,album rock|glam metal|hard rock|metal|rock,True,test
+1UBQ5GK8JaQjm5VbkBZY66,Sharp Dressed Man - 2008 Remaster,ZZ Top,'80s Hard Rock,0.601,0.859,5,-5.263,1,0.0276,0.000359,0.0871,0.446,125.145,album rock|blues rock|classic rock|country rock|hard rock|metal|rock,True,train
+1hqrYSqvNc9x3BETX1cZhk,Shout At The Devil,Mötley Crüe,'80s Hard Rock,0.489,0.953,0,-4.615,1,0.0858,0.02,0.113,0.447,94.443,glam metal|hard rock|metal|rock|sleaze rock,True,train
+4N4guy1faBG6oseDnhjkWy,Since You Been Gone,Rainbow,'80s Hard Rock,0.716,0.821,7,-4.204,1,0.0389,0.551,0.618,0.931,120.737,indie folk|indie rock|modern alternative rock|modern rock|stomp and holler,True,train
+57trQKFZdJxHia4sMJioWk,Sister Christian,Night Ranger,'80s Hard Rock,0.448,0.35,5,-16.239,1,0.0393,0.147,0.0842,0.234,177.279,album rock|classic rock|glam metal|hard rock|mellow gold|rock|soft rock,True,train
+5PLPlz2rQlwMTFQqnQAPgu,Still of the Night - 2017 Remastered Version,Whitesnake,'80s Hard Rock,0.403,0.88,0,-5.872,1,0.0532,0.00582,0.319,0.235,100.457,album rock|british blues|classic rock|glam metal|hard rock|metal|rock,True,train
+2kR3B09M6KeJnchOkxwszt,Summertime Girls - Studio Version,Y&T,'80s Hard Rock,0.431,0.698,4,-11.626,1,0.0336,0.00185,0.232,0.774,128.932,album rock|glam metal|hard rock|metal|rock|sleaze rock,True,train
+4MhTFsyqIJnjsOweVcU8ug,Sweet Child O' Mine,Guns N' Roses,'80s Hard Rock,0.449,0.901,6,-7.711,1,0.0526,0.141,0.128,0.696,125.148,glam metal|hard rock|rock,True,train
+473dVAB97y06dfl6OBb1uj,Talk Dirty To Me,Poison,'80s Hard Rock,0.49,0.951,11,-3.888,1,0.0966,0.00888,0.376,0.628,158.075,album rock|glam metal|hard rock|rock,True,test
+3MrRksHupTVEQ7YbA0FsZK,The Final Countdown,Europe,'80s Hard Rock,0.536,0.844,6,-6.918,0,0.058,0.0628,0.0608,0.185,117.652,album rock|glam metal|hard rock|rock|swedish hard rock|swedish melodic rock,True,train
+3WW3g2scq0m7ZY5JCxrdWw,Uncle Tom's Cabin,Warrant,'80s Hard Rock,0.633,0.732,8,-6.785,1,0.0707,0.186,0.13,0.273,126.567,album rock|glam metal|hard rock|rock,True,train
+1Z6lKdYhwp8WYoBqGCKxlM,Unskinny Bop,Poison,'80s Hard Rock,0.574,0.93,1,-2.949,1,0.0413,0.0657,0.108,0.69,92.303,album rock|glam metal|hard rock|rock,True,train
+1AsRjeavWPH8sCQbjMP8Xh,Up All Night,Slaughter,'80s Hard Rock,0.516,0.733,7,-11.341,0,0.0326,0.000373,0.258,0.552,98.006,deathcore|russian metal|russian metalcore|slamming deathcore,True,test
+2QfjV18pg4Ye7Vo4TsSobq,Wait,White Lion,'80s Hard Rock,0.204,0.794,2,-7.586,1,0.0618,0.00122,0.148,0.205,149.346,album rock|glam metal|hard rock|rock,True,test
+2fY6tqgrlrg1ky9fgs0t5u,Wanted Dead Or Alive,Bon Jovi,'80s Hard Rock,0.257,0.803,7,-3.886,1,0.0411,0.137,0.297,0.294,150.818,glam metal|rock,True,train
+5RHG4SQ6iJ1qQJmt3EFJCX,We're Not Gonna Take It,Twisted Sister,'80s Hard Rock,0.502,0.924,4,-6.299,1,0.0503,0.0127,0.162,0.922,149.186,album rock|glam metal|hard rock|metal|rock,True,train
+5NIPsWpDjJTFBoPxCUUeXp,Welcome To The Jungle,Guns N' Roses,'80s Hard Rock,0.445,0.955,8,-8.027,1,0.0856,0.0326,0.317,0.336,123.343,glam metal|hard rock|rock,True,train
+0TaT50ZZxT4ytZxuqkE3A9,Why Can't This Be Love,Van Halen,'80s Hard Rock,0.531,0.626,0,-13.371,1,0.0452,0.0606,0.0767,0.746,88.236,album rock|classic rock|hard rock|rock,True,train
+3iC3Numiy9P3AkF7iioKmx,Wild Child,W.A.S.P.,'80s Hard Rock,0.372,0.857,5,-7.816,0,0.0461,0.0608,0.187,0.389,146.08,album rock|glam metal|hard rock|metal|rock,True,test
+1o0hcMxI6jYzQm6ApPde3L,Wild Frontier - Remastered 2002,Gary Moore,'80s Hard Rock,0.479,0.822,4,-6.412,0,0.0444,0.00434,0.0843,0.562,130.035,album rock|blues rock|british blues|classic rock|electric blues|hard rock|rock,True,train
+41wWrTueWew7qUU0Ru87Mp,Wild Side,Mötley Crüe,'80s Hard Rock,0.596,0.896,0,-4.635,1,0.0382,0.00742,0.372,0.456,115.092,glam metal|hard rock|metal|rock|sleaze rock,True,test
+6wjSNO6uJYlgbbfauyWhiw,Wind Of Change,Scorpions,'80s Hard Rock,0.453,0.543,0,-10.106,1,0.0366,0.297,0.0928,0.282,151.362,album rock|german hard rock|german metal|german rock|hard rock|metal|rock,True,train
+0sgDEFq9oeC8ueOK0mR5IA,Working for the Weekend,Loverboy,'80s Hard Rock,0.526,0.924,7,-5.591,1,0.0391,0.027,0.598,0.793,147.28,album rock|classic canadian rock|classic rock|glam metal|hard rock|heartland rock|mellow gold|new wave pop|rock|soft rock,True,train
+3U7H63zKWLjOuFZJUmTowp,You Give Love A Bad Name,Bon Jovi,'80s Hard Rock,0.559,0.825,0,-10.725,0,0.0401,0.0771,0.363,0.805,122.821,glam metal|rock,True,test
+2SiXAy7TuUkycRVbbWDEpo,You Shook Me All Night Long,AC/DC,'80s Hard Rock,0.532,0.767,7,-5.509,1,0.0574,0.00287,0.39,0.755,127.361,album rock|australian rock|hard rock|rock,True,train
+3D3lmTEhuWaunO1yxpYPD8,You're in Love,Ratt,'80s Hard Rock,0.567,0.867,7,-11.541,1,0.0484,0.00384,0.112,0.535,146.008,classical performance|orchestral performance,True,train
+6xpCGpxVoE47e2nyAIAZFn,All Systems Down,Andrew Rayel,Big Room House,0.403,0.951,7,-2.651,1,0.267,0.0242,0.067,0.0988,127.478,big room|edm|moldovan pop|progressive house|trance|uplifting trance,True,train
+1xMLthTaWJieT9YGV1hyS5,Animals,Martin Garrix,Big Room House,0.676,0.865,1,-6.381,1,0.0389,0.00105,0.382,0.0372,128.006,big room|dance pop|edm|electro house|pop|pop dance|progressive house|tropical house,True,train
+7qf3VKqcN2retPfpdMGHNu,Animals - Oliver Heldens Remix,Martin Garrix,Big Room House,0.669,0.949,1,-5.1,1,0.0452,0.0225,0.188,0.513,128.015,big room|dance pop|edm|electro house|pop|pop dance|progressive house|tropical house,True,train
+3Kl3b2oW6BIQ1yehBpGNi0,Arcade,Dimitri Vegas & Like Mike,Big Room House,0.565,0.957,3,-4.167,0,0.0723,0.00923,0.293,0.175,127.953,belgian dance|belgian edm|big room|edm|electro house|pop dance|progressive electro house|tropical house,True,train
+45j5Qj9Zv329jaT4qO22MQ,Arcadia - Radio Edit,Hardwell,Big Room House,0.608,0.888,6,-3.192,0,0.0351,0.0028,0.153,0.251,127.938,big room|dance pop|deep big room|dutch house|edm|electro house|pop dance|progressive electro house|progressive house|tropical house,True,test
+0FN86CgJpiYHivPZ6ZlNm6,BFAM - Original Mix,Julian Jordan,Big Room House,0.601,0.785,3,-4.761,0,0.0332,0.00902,0.0939,0.133,127.981,,False,train
+06dT0EYXrhRQV1MsvWhNGv,Bad (feat. Vassy) - Radio Edit,David Guetta,Big Room House,0.614,0.972,5,-3.927,0,0.088,0.00125,0.328,0.411,127.966,dance pop|edm|pop|pop dance|tropical house,True,test
+4H63ey6mUOBfAu0KQ3qpYD,Bazaar (Official Sunburn Goa 2015 Anthem),KSHMR,Big Room House,0.582,0.979,11,-2.492,0,0.0714,0.125,0.339,0.196,128.01,big room|deep big room|edm|electro house|indian edm|pop dance|tropical house,True,test
+7dFikRPQuLFz4PdCw4ZvCy,Believer,Major Lazer,Big Room House,0.596,0.905,8,-3.456,0,0.0515,0.0743,0.128,0.692,144.981,dance pop|edm|electro house|moombahton|pop|pop dance|pop rap,True,train
+6IXICze5FgtxDC4k8lXV1p,Big Bird,Blasterjaxx,Big Room House,0.613,0.981,7,-2.866,1,0.0599,0.000411,0.34,0.118,130.009,,False,train
+5AdIEMVaS9pZEE6is0mdqm,Bigfoot,W&W,Big Room House,0.612,0.926,5,-3.952,0,0.0546,0.00131,0.238,0.145,127.959,,False,train
+1AdfHX1DE79Q6walr15N7c,Birds Fly - W&W Festival Mix Edit,Hardwell,Big Room House,0.574,0.903,3,-4.938,0,0.0638,0.00083,0.123,0.191,127.955,big room|dance pop|deep big room|dutch house|edm|electro house|pop dance|progressive electro house|progressive house|tropical house,True,test
+5T3xR4qk2OuhwnAOruVtjb,Booyah - Original Mix,Showtek,Big Room House,0.739,0.953,11,-2.624,1,0.133,0.00801,0.0623,0.516,127.987,big room|classic hardstyle|deep big room|edm|electro house|euphoric hardstyle|pop dance|progressive electro house,True,train
+12ZQdr6Ir1x6QByyPdJg9W,Bowser - Original Mix,W&W,Big Room House,0.616,0.983,6,-3.947,0,0.0882,0.00689,0.087,0.131,128.033,,False,train
+2bd7KLt028ssKE0K0WYWXl,Break Through The Silence - Radio Edit,Martin Garrix,Big Room House,0.573,0.95,9,-5.167,1,0.0666,0.00289,0.299,0.153,128.013,big room|dance pop|edm|electro house|pop|pop dance|progressive house|tropical house,True,train
+0OMDKEBXtmcIyTcscdF8In,Bring That Beat,Bassjackers,Big Room House,0.718,0.977,8,-3.09,1,0.125,0.000425,0.0932,0.311,128.001,,False,train
+2ASx7GNCypmXa7IiKILPwh,Burn,KSHMR,Big Room House,0.757,0.885,7,-5.109,0,0.146,0.000921,0.0484,0.258,128.009,big room|deep big room|edm|electro house|indian edm|pop dance|tropical house,True,train
+1ZoHuLxbQho7N5ioKA6Hx1,C.U.B.A,Calvin Harris,Big Room House,0.623,0.998,5,-1.436,1,0.0364,0.0342,0.862,0.679,127.988,dance pop|edm|electro house|house|pop|pop dance|progressive house|uk dance,True,train
+2RTDwuOYrdVrfest9QVLlP,Calavera,Hardwell,Big Room House,0.689,0.913,2,-2.944,1,0.0362,0.00612,0.0562,0.076,127.974,big room|dance pop|deep big room|dutch house|edm|electro house|pop dance|progressive electro house|progressive house|tropical house,True,train
+6xt95LFkU8fAQr3CK4lpC9,Caribbean Rave,W&W,Big Room House,0.603,0.903,4,-1.539,0,0.0709,0.0377,0.629,0.67,127.944,,False,train
+506dJMMkoPkz92gynWj0pJ,Caribbean Rave - Instrumental Mix,W&W,Big Room House,0.66,0.95,4,-1.452,0,0.0579,0.00114,0.0891,0.383,127.99,,False,train
+72hrPQygnPJ1z0iTzdTGjd,D# Fat - Radio Edit,Armin van Buuren,Big Room House,0.647,0.901,5,-4.785,0,0.0573,0.0209,0.367,0.158,127.95,dutch trance|edm|pop dance|progressive house|trance,True,train
+62FheCbeT4N5PPKmFD1g4m,Dead Mans Hand - Original Mix,KSHMR,Big Room House,0.585,0.969,7,-3.342,1,0.0935,0.00148,0.184,0.0661,128.025,big room|deep big room|edm|electro house|indian edm|pop dance|tropical house,True,test
+3HYBhApBLEAaWaAIbDJa3i,Dechorro,Deorro,Big Room House,0.77,0.837,5,-3.978,0,0.0696,0.00465,0.122,0.186,127.989,big room|dance pop|edm|electro house|melbourne bounce|melbourne bounce international|pop dance|progressive electro house,True,train
+3qercJ2Z0S5wz6p3rjrQog,Dharma,Headhunterz,Big Room House,0.331,0.919,3,-4.707,0,0.452,0.0367,0.124,0.389,191.112,,False,train
+3FEIHrvozka55YwndaE2zt,Do Your Thing - Radio Edit,Dbstf,Big Room House,0.662,0.937,5,-1.02,0,0.0448,0.014,0.319,0.309,130.023,,False,train
+4s2rzq6ZpCfg5ODq0z79QG,Don't Let Me Down - W&W Remix,The Chainsmokers,Big Room House,0.431,0.877,8,-5.677,0,0.121,0.041,0.126,0.484,159.897,dance pop|edm|electropop|pop|pop dance|tropical house,True,train
+5M9jOReAKGZ2AttVefFjTY,Don't Look Down,Martin Garrix,Big Room House,0.575,0.831,0,-5.972,1,0.0356,0.00406,0.111,0.377,127.991,big room|dance pop|edm|electro house|pop|pop dance|progressive house|tropical house,True,test
+6oheWhUHTYSegLGV9x3BMd,Dragon - Radio Edit,Martin Garrix,Big Room House,0.513,0.917,7,-4.048,0,0.0628,0.00543,0.0592,0.145,128.024,big room|dance pop|edm|electro house|pop|pop dance|progressive house|tropical house,True,train
+5c7UATnb0XfIbyIHHfgIMb,Error 404 - Original Mix,Martin Garrix,Big Room House,0.673,0.862,2,-7.102,1,0.0887,0.000203,0.0442,0.285,127.983,big room|dance pop|edm|electro house|pop|pop dance|progressive house|tropical house,True,train
+6r7FXNO57mlZCBY6PXcZZT,Five Hours,Deorro,Big Room House,0.88,0.821,5,-2.545,0,0.118,0.0197,0.234,0.575,127.907,big room|dance pop|edm|electro house|melbourne bounce|melbourne bounce international|pop dance|progressive electro house,True,train
+78n4IgM3AXMcbKydAwSJsx,Flashlight,R3HAB,Big Room House,0.712,0.953,5,-3.441,1,0.0477,0.0146,0.277,0.31,128.03,big room|dance pop|dutch house|edm|electro house|pop|pop dance|progressive electro house|tropical house,True,train
+2LeF2hl1xpBpPyjvv52rPl,Flute - Radio Mix,New World Sound,Big Room House,0.384,0.886,1,-6.349,1,0.0591,0.000768,0.0721,0.122,127.993,,False,test
+2BF1X5nkYYSb0AUTRaGkDm,Forbidden Voices,Martin Garrix,Big Room House,0.534,0.711,10,-5.927,0,0.0368,0.05,0.135,0.3,128.102,big room|dance pop|edm|electro house|pop|pop dance|progressive house|tropical house,True,test
+5vQIaNoKsT4xkG1j2KFBFs,Gold Skies,Sander van Doorn,Big Room House,0.559,0.815,9,-6.325,0,0.0445,0.00363,0.668,0.209,128.001,,False,test
+4X2G03Zzmt92UBwMaj5Qad,Gold Skies - Tiësto Remix,Sander van Doorn,Big Room House,0.536,0.972,2,-2.387,1,0.0737,0.000169,0.149,0.431,128.02,,False,train
+1toz8k7rYIw4FS5jOSXxYH,Helicopter - Video Edit,Martin Garrix,Big Room House,0.584,0.96,7,-4.492,0,0.0379,0.0104,0.175,0.165,128.003,big room|dance pop|edm|electro house|pop|pop dance|progressive house|tropical house,True,test
+64BbRFQBFPpSKhmCZ5w7K1,How Many,W&W,Big Room House,0.554,0.884,4,-3.548,0,0.108,0.04,0.132,0.229,128.036,,False,train
+30DsuDsNq26rCn30NNzoH6,If It Ain't Dutch,Armin van Buuren,Big Room House,0.547,0.968,11,-3.956,1,0.258,0.00481,0.419,0.166,132.106,dutch trance|edm|pop dance|progressive house|trance,True,train
+76Csg9kMXlVY4mjKtohf3e,JAMMU - Original Mix,KSHMR,Big Room House,0.641,0.633,4,-4.889,0,0.0546,0.00414,0.11,0.152,128.013,big room|deep big room|edm|electro house|indian edm|pop dance|tropical house,True,train
+1ghUWRA4BLzCVBpzJhbN0m,Karate - Original Mix,R3HAB,Big Room House,0.626,0.961,5,-3.587,1,0.0687,0.000407,0.685,0.668,128.009,big room|dance pop|dutch house|edm|electro house|pop|pop dance|progressive electro house|tropical house,True,test
+1yInsvKbKrDHP59jQRhjKP,Kundalini,Headhunterz,Big Room House,0.63,0.946,0,-3.58,0,0.0798,0.0309,0.384,0.386,127.987,,False,train
+2TcZ05FR0xQWZOaFWyRWUt,L'Amour Toujours - Tiësto Edit,Dzeko & Torres,Big Room House,0.591,0.931,3,-2.867,1,0.0967,0.00763,0.153,0.17,129.975,,False,train
+3TuVVHeIC7rxINHJBsOA7T,Let It Move Ya,Bass Modulators,Big Room House,0.349,0.969,0,-2.468,1,0.0753,0.00553,0.355,0.405,132.013,,False,test
+1bgTKf3PAKmxfS24pWXGEC,Let's Go,Rick Mitchells,Big Room House,0.584,0.898,1,-4.884,1,0.216,0.0259,0.451,0.081,127.97,,False,train
+5HZQipw98poTN9zRpZIkQO,Lift Off! - Original Mix,W&W,Big Room House,0.702,0.818,8,-5.261,1,0.0935,0.00137,0.0655,0.372,128.006,,False,train
+6F1kPSgdnlSzZRfskE9vaV,Lions in the Wild,Martin Garrix,Big Room House,0.504,0.847,7,-6.81,0,0.0442,0.00434,0.816,0.28,127.854,big room|dance pop|edm|electro house|pop|pop dance|progressive house|tropical house,True,train
+4GwXdVLueKZ8YhYjZmWtYh,Live The Night,W&W,Big Room House,0.805,0.968,10,-3.909,1,0.227,0.00707,0.368,0.211,127.984,,False,test
+1Pofof4ZYVI6GDM0IFGvBk,Live Your Life - Radio Edit,Headhunterz,Big Room House,0.485,0.853,6,-3.192,0,0.0423,0.0057,0.0842,0.304,130.054,,False,train
+0zaaWhjBOtcxaTFvhL6znM,Louder - Radio Edit,Dimitri Vegas & Like Mike,Big Room House,0.567,0.992,1,-2.688,1,0.272,0.000465,0.217,0.0999,128.023,belgian dance|belgian edm|big room|edm|electro house|pop dance|progressive electro house|tropical house,True,train
+6nn6GW5dMrdx2wYRmHmfyL,Mammoth - Original,"Dimitri Vegas, Moguai & Like Mike",Big Room House,0.634,0.849,4,-5.98,0,0.335,0.00123,0.37,0.455,128.004,,False,train
+3LRS7RDo5pDJ9OvfG0vTSC,Mandala - Official Sunburn 2016 Anthem,KSHMR,Big Room House,0.52,0.958,4,-2.671,0,0.474,0.00407,0.164,0.256,127.907,big room|deep big room|edm|electro house|indian edm|pop dance|tropical house,True,train
+56yBx8FsSMusloE6IiaLDR,Megalodon - Original Mix Edit,KSHMR,Big Room House,0.262,0.941,1,-3.409,1,0.0867,0.0139,0.233,0.141,191.983,big room|deep big room|edm|electro house|indian edm|pop dance|tropical house,True,train
+3NaPSOqHccC4WalcqvORT0,Mellow,Showtek,Big Room House,0.564,0.874,11,-2.973,0,0.0395,0.0423,0.105,0.402,149.996,big room|classic hardstyle|deep big room|edm|electro house|euphoric hardstyle|pop dance|progressive electro house,True,train
+138r3KZpQTolaujmTBuqlY,Melody - Radio Mix,Dimitri Vegas & Like Mike,Big Room House,0.461,0.975,3,-3.245,0,0.174,0.0375,0.366,0.0784,129.978,belgian dance|belgian edm|big room|edm|electro house|pop dance|progressive electro house|tropical house,True,train
+7DcY0SUvSIcIjHeSGhTXDk,Memories - Radio Edit,KSHMR,Big Room House,0.521,0.728,8,-5.005,0,0.0501,0.0352,0.783,0.32,128.07,big room|deep big room|edm|electro house|indian edm|pop dance|tropical house,True,train
+6So96i2czMaABVTpeClGc0,Moscow - Radio Edit,W&W,Big Room House,0.583,0.648,2,-6.203,0,0.0345,0.00398,0.111,0.146,129.991,,False,train
+19ElL1YUfU0YGw6eh8mS1F,Move - Showtek Radio Edit,twoloud,Big Room House,0.568,0.914,5,-3.655,0,0.0529,0.00297,0.223,0.479,128.078,,False,train
+6jmTQwFzejCurofZDz7x9k,Off The Hook,Hardwell,Big Room House,0.705,0.951,11,-3.754,0,0.0743,0.0113,0.346,0.153,129.967,big room|dance pop|deep big room|dutch house|edm|electro house|pop dance|progressive electro house|progressive house|tropical house,True,train
+6z9TiMU1v1HCIepcbhvObg,On The Floor Like,Bassjackers,Big Room House,0.658,0.835,9,-3.811,0,0.0412,0.00179,0.102,0.403,127.955,,False,train
+4kPBncgyAQsrNozmB10ntb,Once Again - Original Mix,Headhunterz,Big Room House,0.644,0.768,4,-4.735,0,0.0544,0.000384,0.154,0.0813,130.021,,False,train
+135TYaJ0WsivC2Zk7MEX4Y,Project T - Martin Garrix Remix,Dimitri Vegas & Like Mike,Big Room House,0.561,0.725,9,-7.212,0,0.042,0.00358,0.0872,0.117,127.993,belgian dance|belgian edm|big room|edm|electro house|pop dance|progressive electro house|tropical house,True,test
+4NRyVCNxLelhs9ZqRzbjjp,Project T - Original Mix,Dimitri Vegas & Like Mike,Big Room House,0.614,0.926,9,-5.677,0,0.037,0.00104,0.179,0.135,124.997,belgian dance|belgian edm|big room|edm|electro house|pop dance|progressive electro house|tropical house,True,train
+54fgYLd9UtdPZVjx548Ver,Proxy,Martin Garrix,Big Room House,0.667,0.695,7,-5.722,0,0.0334,0.00856,0.197,0.292,128.052,big room|dance pop|edm|electro house|pop|pop dance|progressive house|tropical house,True,train
+7ipioDTtamvmdNHwQDsOKc,Pyramids - Radio Mix,DVBBS,Big Room House,0.602,0.965,10,-0.959,1,0.074,0.000269,0.0859,0.215,128.14,big room|canadian electronic|dance pop|deep big room|edm|electro house|pop dance|pop edm|tropical house,True,train
+26UkElAazA0LQQs0auxh4x,Rave After Rave - Original Mix,W&W,Big Room House,0.691,0.816,6,-3.296,0,0.0973,0.00203,0.194,0.487,128.025,,False,train
+60bhhX6Jxyldf26yuQKfnP,Rocket - Original Mix,W&W,Big Room House,0.674,0.956,8,-2.938,1,0.0559,0.000885,0.071,0.107,128.034,,False,train
+25dl9vcAJ9F6D6K35I3Nbw,Run Wild,Hardwell,Big Room House,0.486,0.906,4,-4.634,0,0.055,0.000767,0.253,0.118,130.095,big room|dance pop|deep big room|dutch house|edm|electro house|pop dance|progressive electro house|progressive house|tropical house,True,train
+1WVZ7YYgdEIhGNFRWD3ByJ,Savior - Radio Edit,Bassjackers,Big Room House,0.747,0.882,5,-3.317,0,0.0543,0.000322,0.351,0.308,128.095,,False,train
+69zxj1EFDfAouZu9JDmQld,Secrets - Radio Edit,Tiësto,Big Room House,0.677,0.811,11,-4.53,0,0.043,0.0012,0.0896,0.185,128.004,big room|brostep|dance pop|dutch edm|edm|electro house|house|pop|pop dance|trance|tropical house,True,train
+0lX98rC2JdfRwV9l27cac2,Shocker,W&W,Big Room House,0.572,0.969,6,-4.323,1,0.121,0.00107,0.358,0.255,132.011,,False,train
+7qfwcqfGOkQYtzjF4UzJHM,Shot Me Down (feat. Skylar Grey) - Radio Edit,David Guetta,Big Room House,0.347,0.772,5,-4.359,0,0.0549,0.0597,0.115,0.035,192.118,dance pop|edm|pop|pop dance|tropical house,True,test
+2NfGnOgsGCDj6nPWblgKEc,Spack Jarrow - Original Mix,W&W,Big Room House,0.276,0.975,7,-3.686,1,0.293,0.00437,0.365,0.342,191.903,,False,test
+5zwBmW0IbXpIA84cVHDGhe,Split (Only U),Tiësto,Big Room House,0.634,0.927,1,-3.282,1,0.136,0.048,0.0864,0.35,128.016,big room|brostep|dance pop|dutch edm|edm|electro house|house|pop|pop dance|trance|tropical house,True,train
+3ActcmE8M7DpBHQiRFSx5G,Strong,R3HAB,Big Room House,0.448,0.856,5,-3.162,0,0.0537,0.0211,0.2,0.511,127.977,big room|dance pop|dutch house|edm|electro house|pop|pop dance|progressive electro house|tropical house,True,train
+09okoLt0vlZKhRVv6y8NVo,Sun Is Shining - W&W Remix,Axwell /\ Ingrosso,Big Room House,0.525,0.856,11,-5.428,0,0.0576,0.00543,0.217,0.2,129.979,big room|dance pop|edm|electro house|pop|pop dance|tropical house,True,train
+5RVE3ef6pf6bkLRFFv7cfs,Survivors - Radio Edit,Hardwell,Big Room House,0.539,0.825,7,-3.972,0,0.0678,0.0234,0.172,0.233,127.95,big room|dance pop|deep big room|dutch house|edm|electro house|pop dance|progressive electro house|progressive house|tropical house,True,train
+6PkR25HfP4DNYIzN0riPOq,Tantra,JDG,Big Room House,0.655,0.924,9,-1.827,1,0.0902,0.0141,0.281,0.101,127.966,,False,train
+78HGVRo9dZj1KUyLi5RPQW,The Code - Radio Edit,W&W,Big Room House,0.677,0.911,0,-3.593,1,0.0799,0.0034,0.314,0.265,128.04,,False,train
+0Gc1AVYqYOR522Nvz68dsT,The Hum - Short Edit,Dimitri Vegas & Like Mike,Big Room House,0.729,0.947,11,-3.103,0,0.0458,0.211,0.367,0.209,130.005,belgian dance|belgian edm|big room|edm|electro house|pop dance|progressive electro house|tropical house,True,train
+6ulV6BN8zJe3t9JyvaEAsT,The One,W&W,Big Room House,0.614,0.922,2,-3.257,1,0.23,0.169,0.197,0.615,126.025,,False,test
+0uvFFLI3Z6zidLLUsHDVVk,The Only Way Is Up - Radio Edit,Martin Garrix,Big Room House,0.593,0.81,1,-5.976,0,0.0341,0.0145,0.0906,0.173,128.067,big room|dance pop|edm|electro house|pop|pop dance|progressive house|tropical house,True,train
+0vRvoOEUTabrQNmqUCD5Uw,The Spook Returns,KSHMR,Big Room House,0.466,0.936,1,-4.405,0,0.185,0.00948,0.154,0.37,127.863,big room|deep big room|edm|electro house|indian edm|pop dance|tropical house,True,train
+6FqH28raIkXVlcHDUvlEzA,This Is Dirty - Original Mix,DVBBS,Big Room House,0.456,0.905,7,-1.405,0,0.0737,0.000263,0.0954,0.084,128.078,big room|canadian electronic|dance pop|deep big room|edm|electro house|pop dance|pop edm|tropical house,True,train
+5ScnlX18hRpXLKDsjk0jt1,This Is What It Feels Like - W&W Radio Edit,Armin van Buuren,Big Room House,0.55,0.816,8,-6.559,1,0.0415,0.0014,0.277,0.296,129.923,dutch trance|edm|pop dance|progressive house|trance,True,train
+56xFEo61VO28nrT1MVPHoB,Thunder,W&W,Big Room House,0.629,0.886,7,-3.661,0,0.0589,0.00484,0.1,0.18,128.003,,False,train
+6jKf2iGv0L8M5EhLbK4Aqq,Till It Hurts,Yellow Claw,Big Room House,0.56,0.886,8,-4.025,1,0.0321,0.000643,0.133,0.23,144.982,bass trap|edm|electro house|electronic trap|pop dance,True,train
+3xcMEY6lVtFCJ5kLf9mFNK,Toca (feat. Timmy Trumpet & KSHMR),Carnage,Big Room House,0.865,0.496,2,-4.21,1,0.126,0.00338,0.047,0.174,127.988,edm|electro house|electronic trap|pop rap|rap|southern hip hop|trap|underground hip hop,True,train
+2qacsajvpSVl00advUfKk6,Torrent,Sidney Samson & Martin Garrix,Big Room House,0.635,0.868,4,-5.688,1,0.057,0.000381,0.0606,0.0833,127.962,,False,train
+6AE0G24YXnDyEgE4L0efpB,Tremor - Sensation 2014 Anthem,Dimitri Vegas & Like Mike,Big Room House,0.631,0.939,6,-4.21,0,0.0363,0.000351,0.955,0.452,127.992,belgian dance|belgian edm|big room|edm|electro house|pop dance|progressive electro house|tropical house,True,train
+5iOtXGMVHXyLuPAOFFUfNC,Turn The Music Up! - Radio Edit,Wildstylez,Big Room House,0.574,0.943,5,-4.162,0,0.0576,0.00304,0.0526,0.193,131.988,,False,train
+2F9zf32Q3DFz977NmSt58Y,Turn Up The Speakers,Afrojack,Big Room House,0.694,0.9,5,-5.245,1,0.0456,0.0984,0.473,0.294,127.995,big room|dance pop|deep big room|dutch house|edm|electro house|pop dance|progressive electro house|progressive house|tropical house,True,train
+6MFzvkEysiwDXYTa7MKUvJ,United We Are,Hardwell,Big Room House,0.704,0.899,7,-3.503,0,0.0876,0.00425,0.124,0.155,128.026,big room|dance pop|deep big room|dutch house|edm|electro house|pop dance|progressive electro house|progressive house|tropical house,True,train
+5ZnzVZrSja6miEOxZIV8Q6,Virus (How About Now),Martin Garrix,Big Room House,0.488,0.841,5,-5.51,0,0.04,0.00197,0.801,0.0671,128.071,big room|dance pop|edm|electro house|pop|pop dance|progressive house|tropical house,True,train
+1CYAEcbhLAluTm47dIFFgZ,Voodoo - Original Mix,DVBBS,Big Room House,0.652,0.822,3,-4.579,0,0.0415,0.00185,0.0635,0.101,127.996,big room|canadian electronic|dance pop|deep big room|edm|electro house|pop dance|pop edm|tropical house,True,train
+0WVr2fYd4YOitZgQHTDjUY,Wake Up - Original Mix,Jay Hardway,Big Room House,0.663,0.828,8,-6.185,0,0.0521,0.0423,0.0657,0.569,128.001,,False,test
+39JXKlaBNWl5WrXgjq7jBM,We Control The Sound,Headhunterz,Big Room House,0.385,0.929,2,-4.332,1,0.194,0.00158,0.109,0.247,130.103,,False,test
+2X0q5QBDUzwLa7O7AwWBzQ,We Like To Party,Showtek,Big Room House,0.587,0.905,11,-4.655,0,0.0419,0.000211,0.104,0.187,127.982,big room|classic hardstyle|deep big room|edm|electro house|euphoric hardstyle|pop dance|progressive electro house,True,test
+7yz7xxHAG4ChgrSeMvIXIo,Wildcard (feat. Sidnie Tipton),KSHMR,Big Room House,0.594,0.834,4,-3.398,0,0.0963,0.0998,0.149,0.473,127.935,big room|deep big room|edm|electro house|indian edm|pop dance|tropical house,True,train
+7aCZfs36tXkWVFItKHNGcE,Wizard,Martin Garrix,Big Room House,0.582,0.902,7,-5.098,1,0.0707,0.00835,0.513,0.23,127.985,big room|dance pop|edm|electro house|pop|pop dance|progressive house|tropical house,True,train
+4G2WtXPgkDl0dnwzoBbBSj,4:20 PM,Bluedoom,Jazz Vibes,0.771,0.322,6,-12.924,1,0.258,0.947,0.293,0.751,79.997,lo-fi beats,True,test
+7tzVMfgxbeMoxpBPz4EKoK,A Moment to Bill It - Beat Edit,Summers Sons,Jazz Vibes,0.733,0.244,11,-10.458,1,0.0636,0.538,0.58,0.346,90.53,,False,test
+0w7HY9VhJF5KHPqhOyY6Sg,Aspen,Nokiaa,Jazz Vibes,0.828,0.412,8,-14.672,0,0.128,0.0844,0.126,0.19,110.054,,False,train
+6LoeOsb4PfpP0ph9iMsvUf,Atrebor,Flughand,Jazz Vibes,0.798,0.503,5,-7.103,1,0.0541,0.587,0.114,0.537,82.099,chillhop|jazz boom bap|lo-fi beats,True,train
+0o7YSyPeTwuZXi4rn7NDlB,Ballads for Backgrounds,Konteks,Jazz Vibes,0.764,0.38,11,-14.212,1,0.369,0.753,0.119,0.634,172.112,,False,train
+74D5pms3OKB8xEem6KwLdY,Belém,DAO,Jazz Vibes,0.77,0.67,11,-10.602,0,0.0762,0.139,0.101,0.304,99.96,,False,train
+5C4sp6JprCFTO9ZQcg4qXs,By,HNNY,Jazz Vibes,0.679,0.427,2,-11.273,0,0.0753,0.621,0.102,0.301,168.103,deep house|electronica|float house|indie jazz|indie soul|soul|swedish electronic|swedish house|swedish synthpop,True,train
+4ZTVECvBdO9XU4tNhQcgQ0,Cheeky Steve,Mr Mantega,Jazz Vibes,0.793,0.653,8,-8.52,1,0.191,0.396,0.0881,0.476,160.05,,False,train
+4QwB3OnOhUGuS8kDBEcYb5,Chrome,7apes,Jazz Vibes,0.726,0.334,10,-12.843,0,0.186,0.61,0.364,0.676,82.066,,False,train
+14kpqRxMt2iAvNvMEoGJws,City Samba,Konteks,Jazz Vibes,0.409,0.412,6,-12.822,1,0.0372,0.285,0.127,0.41,88.009,,False,train
+1YG7HsQ6msnV0z2FDTptnf,City Stroll,Otis Ubaka,Jazz Vibes,0.755,0.453,6,-7.334,1,0.156,0.41,0.206,0.236,86.06,,False,train
+3aNsRsxKJWI7QdKEbav4e4,Clouds,SamuW,Jazz Vibes,0.754,0.299,9,-16.236,0,0.052,0.579,0.0475,0.897,143.862,,False,train
+4mEyUJn4hgJCz75UWv3YTz,Cordite In The Air,mädmäx,Jazz Vibes,0.682,0.147,1,-15.461,0,0.311,0.283,0.133,0.296,85.038,,False,train
+7ALj2jRLBUaWXnW89GlAbz,December - Chillaxed,The Breed,Jazz Vibes,0.702,0.439,1,-15.213,1,0.039,0.0123,0.0702,0.651,140.032,,False,train
+6oW0uYJZAR5RjOWBr9onVj,Devoted Passion,Figub Brazlevic,Jazz Vibes,0.683,0.754,10,-6.466,1,0.0576,0.43,0.0932,0.646,83.016,,False,train
+2APhx63Q8xpqlQ1lkomqTO,Earth,Beaumont,Jazz Vibes,0.78,0.336,7,-13.902,0,0.173,0.714,0.128,0.94,140.118,disney|movie tunes,True,train
+1p5jbuZMzTZUXOlmI8VRIl,Ensnared,Melodiesinfonie,Jazz Vibes,0.547,0.376,5,-9.531,0,0.0412,0.813,0.155,0.466,140.674,,False,test
+1pqkpQx65J0uwl5PbnUDuJ,Fantasia,El Jazzy Chavo,Jazz Vibes,0.665,0.502,6,-8.868,0,0.0339,0.0138,0.158,0.286,86.971,,False,train
+6VCeEqyExn5hfV1dBsGDIm,Fave Thing,Funky Notes,Jazz Vibes,0.52,0.403,4,-13.17,0,0.274,0.212,0.139,0.233,169.471,,False,test
+5xYK03nHMZgAfYZnA9NJRH,Fire to Hire,Mr Mantega,Jazz Vibes,0.715,0.489,7,-9.569,0,0.0454,0.619,0.153,0.937,144.043,,False,train
+2jT4R7AMB7SrA4hXOkylYo,Flashlight,Made in M,Jazz Vibes,0.728,0.115,8,-13.056,0,0.324,0.827,0.0875,0.7,148.204,atl hip hop|hip hop|melodic rap|pop rap|rap|southern hip hop|trap|underground hip hop|vapor trap,True,train
+5g3lpA0rVxdt4EtNwJQBQw,Focus,Phlocalyst,Jazz Vibes,0.502,0.15,3,-20.066,1,0.0364,0.72,0.109,0.0661,79.978,,False,train
+6crAYI7gZzmGHtKINtuUn7,For Sale,Mr. Collage,Jazz Vibes,0.769,0.658,11,-9.37,1,0.0906,0.201,0.086,0.686,77.547,,False,train
+6ekeactpFOI9b9NzwWDDb9,Forward Backward,Max Keeble,Jazz Vibes,0.717,0.472,9,-11.145,0,0.0467,0.787,0.29,0.786,79.982,,False,test
+5whd3bsCbU8yuQGfFY3w7U,Friendly Candy,Burrito Brown,Jazz Vibes,0.565,0.673,11,-6.503,1,0.0377,0.481,0.103,0.0461,89.005,,False,train
+0RVzAEJdh4VsuRIkLqmo7t,Good Morning,Green Assassin Dollar,Jazz Vibes,0.751,0.425,7,-8.947,1,0.0466,0.894,0.0976,0.778,75.128,,False,train
+3q2zODlw1n3be81eW3SHcv,Grounds,DLJ,Jazz Vibes,0.471,0.342,11,-12.588,0,0.371,0.822,0.224,0.406,174.746,,False,train
+06s7XknCVIqABJY8cGMol5,Haven,Finesse,Jazz Vibes,0.687,0.188,4,-12.43,1,0.0681,0.687,0.0931,0.908,168.051,,False,train
+4Chy83oRs3pToekNNpvTU6,Her,DAO,Jazz Vibes,0.737,0.723,1,-9.483,0,0.0673,0.104,0.0979,0.334,89.967,,False,train
+4q9OiG2pXGdP7xmcRRNFMt,High as Fuck,Thelonious Coltrane,Jazz Vibes,0.72,0.332,7,-14.059,1,0.144,0.19,0.113,0.651,84.035,,False,train
+2Fs5uaRcKRwmAth4u5LzaZ,Hokusai,Cap Kendricks,Jazz Vibes,0.64,0.553,6,-10.941,0,0.0304,0.0616,0.115,0.485,129.98,,False,train
+07PnRpdo0I4sEKahf0Os8l,Homesick,Kazam,Jazz Vibes,0.402,0.366,2,-12.369,1,0.0503,0.828,0.34,0.329,75.863,,False,test
+1tzHOvF8X9Hw9p1xRM6xCt,Hydro,Cap Kendricks,Jazz Vibes,0.8,0.434,5,-9.729,0,0.131,0.156,0.544,0.736,86.143,,False,train
+2FygRDP2PuxcvWGGyf3nao,In My Head,DAO,Jazz Vibes,0.826,0.409,11,-10.69,0,0.113,0.766,0.101,0.469,135.987,,False,train
+0yNzLGveSqD6jdj0sVVkrb,It Felt Wrong,Jr. Wellness,Jazz Vibes,0.782,0.44,9,-9.892,0,0.0564,0.797,0.401,0.0995,94.002,,False,train
+19K24V0kGvNLFYCR8jMs88,It's Ok,Pandrezz,Jazz Vibes,0.702,0.277,7,-11.708,1,0.0466,0.835,0.121,0.065,87.0,lo-fi beats,True,train
+7mpdWGRFeoww1AR1qz0T5v,Japanese Garden,Katashi Kaitō,Jazz Vibes,0.549,0.328,1,-8.047,1,0.259,0.563,0.127,0.384,136.344,,False,train
+0DvqAXyoA7zRB8wgH0DjRO,Ji-Eun's Sunset,City Girl,Jazz Vibes,0.931,0.517,4,-8.476,1,0.105,0.0923,0.114,0.171,118.021,pop|scam rap|trap queen,True,test
+4aytB0kODhqRLnJwdJqUmW,Karru,FloFilz,Jazz Vibes,0.764,0.438,10,-8.76,0,0.0614,0.241,0.106,0.951,173.968,,False,train
+4JZIQzEuPvnGj68SHC9PSe,Kopi Luwak,Shuko,Jazz Vibes,0.644,0.388,8,-9.828,0,0.0572,0.413,0.0899,0.353,83.031,,False,train
+6BwCkzxd3h6eA5xqOUZzUY,Leaves covered by snow,No Spirit,Jazz Vibes,0.473,0.318,8,-13.997,1,0.0341,0.679,0.0844,0.113,89.992,,False,train
+1MmD2ICUPPyGxGDVypctcF,Leaving,High John,Jazz Vibes,0.432,0.293,10,-10.994,0,0.0662,0.885,0.107,0.468,111.598,,False,train
+20k7dNVQhMqPEYlOwFrmC6,Moonlight Bossa,Jazzinuf,Jazz Vibes,0.532,0.942,8,-5.425,0,0.0965,0.166,0.218,0.599,179.825,,False,train
+2DHHKsZ1ejniF4qGlGNz3z,Motel Hours,Kid Tarô,Jazz Vibes,0.66,0.317,8,-9.809,1,0.0686,0.651,0.118,0.291,166.093,,False,test
+4KIhtAJo1zQmT7CiztTsKI,Méditerranée,Figub Brazlevic,Jazz Vibes,0.659,0.486,11,-7.645,0,0.0486,0.134,0.154,0.234,172.095,,False,train
+0FouIjnjH3ygThiuPuBatM,Nacada Drive,Testiculo y Uno,Jazz Vibes,0.683,0.839,10,-9.979,0,0.129,0.0526,0.951,0.631,93.915,,False,train
+5fwLp5qIOxEtM7BzP5Mj12,Neighbors,Don Philippe,Jazz Vibes,0.747,0.0986,5,-17.918,0,0.11,0.321,0.104,0.711,144.95,,False,train
+37WThuwPuTsonUbRbeGZXz,Night Train,Koralle,Jazz Vibes,0.647,0.435,0,-8.933,0,0.0422,0.0884,0.233,0.72,90.02,,False,train
+1Mlr2Los4l7nUxu6gSZMLN,Nobodys Daddy Part 2,Nobodys Face,Jazz Vibes,0.795,0.414,4,-10.718,0,0.0867,0.813,0.373,0.657,138.013,,False,train
+5Use6EepmS9Z7wAUPy3Kp4,On My Mind,Juan Rios,Jazz Vibes,0.541,0.277,10,-10.522,0,0.0324,0.869,0.722,0.655,168.295,,False,train
+5CFUgwifmVBL4lrIVP2rp7,Perspective,Oatmello,Jazz Vibes,0.573,0.512,0,-9.696,1,0.0415,0.29,0.102,0.278,152.06,,False,train
+7gcVX05HnwUIHev1pkh0ne,Quicky,Fractite,Jazz Vibes,0.74,0.123,8,-10.878,0,0.0734,0.00163,0.0827,0.205,90.988,,False,train
+52IWmLOUfIW2a8dHnMW0Gt,Quiet Mornings,Mr. Käfer,Jazz Vibes,0.527,0.161,4,-12.223,0,0.0727,0.845,0.0973,0.291,162.117,,False,test
+1xHXZxN2boq8o6ohlAlB1O,Raw Quartet,Cookin Soul,Jazz Vibes,0.661,0.47,7,-5.195,1,0.0917,0.163,0.192,0.339,84.024,,False,train
+7sTVsEhtLy217gr6739xF4,Ready to Diet,Kevoe West,Jazz Vibes,0.602,0.437,1,-10.426,1,0.0281,2.22e-06,0.351,0.298,90.039,,False,test
+76RXCXdZaVZ9LHbmBypZnM,Rio Roadtrippin',Ozoyo,Jazz Vibes,0.721,0.769,6,-8.095,0,0.165,0.134,0.166,0.832,78.99,,False,test
+0vTJP35J4M1PY9iAA8UmbV,Sao Paulo Sunset,Saib,Jazz Vibes,0.693,0.918,7,-8.307,1,0.088,0.323,0.392,0.757,176.15,chillhop|japanese chillhop|lo-fi beats,True,train
+3nuSxBQUTn7nidezkdcBf4,Sizedrum,Leyze,Jazz Vibes,0.784,0.196,9,-9.913,0,0.536,0.879,0.115,0.641,180.052,,False,train
+2VZ2N0hfF1XQIPEhot4BXq,Smile Again,Green Assassin Dollar,Jazz Vibes,0.753,0.443,8,-9.697,1,0.448,0.948,0.313,0.73,83.047,,False,train
+2lR4W7VFKuLeeFwhIqzDk7,Smoke One,Marcos Caixa,Jazz Vibes,0.64,0.427,5,-6.515,0,0.0972,0.0862,0.219,0.796,86.134,,False,train
+4qv0hnIWqV1k1AksEY52RP,Sofa Stories,Moods,Jazz Vibes,0.554,0.418,0,-12.004,1,0.298,0.475,0.11,0.171,84.001,,False,train
+3o9rQJLHEq9mNQIOD4VF3C,Soulstice,Freddie Joachim,Jazz Vibes,0.743,0.452,2,-5.638,1,0.131,0.487,0.111,0.395,80.049,ambeat|chillhop|jazz boom bap,True,train
+0T3MQGkFdP9FxUJ4bRO3VH,Stranger,Phlocalyst,Jazz Vibes,0.526,0.136,8,-18.452,1,0.0767,0.112,0.111,0.395,174.006,,False,train
+7ueIVxEgrDYvlt0slBFchE,Sunflower,Edward Sizzerhand,Jazz Vibes,0.874,0.402,2,-10.894,1,0.34,0.0954,0.124,0.718,89.053,,False,train
+2VhbfT4qyB4KFhVEDplXxX,Sunset Blvd,7apes,Jazz Vibes,0.846,0.472,6,-9.833,0,0.0402,0.031,0.0941,0.533,132.043,,False,train
+2sLO22lacNt7fQguWaBKRo,Swordfighter,Andrew Applepie,Jazz Vibes,0.565,0.427,10,-12.27,0,0.0454,0.745,0.0989,0.49,139.813,,False,train
+3QEWSE2yXJN85Q66gxY64O,Takeoff,High John,Jazz Vibes,0.492,0.314,7,-14.961,1,0.281,0.947,0.208,0.196,83.852,,False,train
+1nNSbg1oXFH5AxyI1WRxkF,The Jam,Tru Comers,Jazz Vibes,0.69,0.427,11,-8.114,0,0.0817,0.0868,0.116,0.183,77.713,,False,test
+0J9C432nUkMtgKiHQrVF1L,Think for Yourself,Moonspatz,Jazz Vibes,0.685,0.807,3,-7.691,0,0.17,0.354,0.137,0.56,85.007,,False,test
+0QtbbFtPyH8VNE5fxQ8yBn,Treflip FS Blunt,Figub Brazlevic,Jazz Vibes,0.663,0.665,1,-5.582,1,0.0364,0.0412,0.0975,0.778,89.003,,False,test
+63hM1i4OCu2axm2JwbQQXF,Triple Double,LESKY,Jazz Vibes,0.73,0.219,5,-15.187,0,0.0515,0.0814,0.106,0.287,91.007,,False,train
+6B6QA7QrMPio472SsQjQnh,Vaca,Wun Two,Jazz Vibes,0.75,0.338,4,-9.036,1,0.0497,0.119,0.146,0.684,142.069,chillhop|lo-fi beats,True,train
+5VmL8CrjM82tIGWwum8Cbo,Venice,Gyvus,Jazz Vibes,0.881,0.561,8,-7.351,1,0.139,0.333,0.148,0.801,95.011,,False,train
+6vhSIjj1M9HU9OnOi8sdqX,Verbania,Wun Two,Jazz Vibes,0.61,0.341,7,-11.056,1,0.0499,0.179,0.113,0.69,146.005,chillhop|lo-fi beats,True,train
+4d4IrFVJFASjI1QC0zDKuv,Verdi,Wun Two,Jazz Vibes,0.914,0.465,5,-14.578,0,0.0626,0.0828,0.0988,0.442,112.143,chillhop|lo-fi beats,True,test
+6xZWNYuoNPDOJnH8ez4Ydc,Vibin' Out,Ruck P,Jazz Vibes,0.652,0.42,9,-11.728,0,0.034,0.0243,0.0953,0.366,93.984,,False,train
+5vCMqXWUY0gQffbbX1z2eK,Visit By Cap Kendricks,Funky Notes,Jazz Vibes,0.525,0.729,6,-5.085,0,0.328,0.339,0.538,0.842,81.634,,False,train
+14gE9N9Hx3WyLL1U3CnizM,Waking Dreams,damaa.beats,Jazz Vibes,0.716,0.236,11,-10.73,0,0.0579,0.741,0.145,0.541,79.983,,False,train
+0eOOTL9t2P448umBMf8vcS,Wasabi Terraces,Testiculo y Uno,Jazz Vibes,0.808,0.245,2,-11.114,1,0.0519,0.177,0.706,0.583,87.213,,False,train
+2cuKRkBOFSeM7ZLCPC3gFt,Waterfloat,Green Assassin Dollar,Jazz Vibes,0.78,0.214,5,-9.443,0,0.161,0.818,0.126,0.624,86.111,,False,train
+6sCNSFRrvhVlLGWJTvTvbm,Whales,Cap Kendricks,Jazz Vibes,0.449,0.325,5,-8.762,0,0.0336,0.808,0.518,0.0575,82.788,,False,train
+24LlCzV5XHVGSvIUa9Ke2G,What Might Have Been,Robot Orchestra,Jazz Vibes,0.526,0.505,1,-9.201,1,0.112,0.729,0.106,0.17,76.868,,False,train
+0QiMXPWqr4HkJICdUxAwCw,Winter In Lofi Land,Katashi Kaitō,Jazz Vibes,0.778,0.657,7,-5.02,1,0.037,0.172,0.126,0.555,82.988,,False,train
+3xhbFPgrYiWY7Oz3qovZuj,autumn daze,charlie toØ human,Jazz Vibes,0.833,0.336,5,-9.683,1,0.0973,0.827,0.125,0.61,38.985,,False,train
+1sL9EukureVOZOrx69SiWB,ballin,Knowsum,Jazz Vibes,0.614,0.382,9,-11.951,0,0.0366,0.485,0.101,0.568,83.114,,False,train
+51mcuqQpPcsMRZ5KW0A0In,cherry,Tom Doolie,Jazz Vibes,0.59,0.427,4,-10.999,0,0.186,0.476,0.352,0.343,118.925,,False,train
+708BmbNyEFsWl0PQXWHknO,cielo,n o r m a l,Jazz Vibes,0.613,0.317,1,-10.621,1,0.101,0.747,0.133,0.553,79.98,,False,train
+4fypvLcaDU7pdHJ5xlRFPV,grass,MF Eistee,Jazz Vibes,0.804,0.372,11,-10.453,0,0.243,0.495,0.0944,0.591,166.115,,False,train
+34SsCsOInrOqdkbjaoJWzn,linus,lōland,Jazz Vibes,0.752,0.461,7,-9.808,0,0.0841,0.311,0.116,0.506,160.152,,False,train
+5Y4nAJYenoA15vWtRJllMP,meditate minds,digitalluc,Jazz Vibes,0.56,0.364,9,-9.338,0,0.0959,0.377,0.0869,0.408,68.457,,False,test
+2NEjPjHPuTjUqQ8MoIWi0Z,no stress,Oilix,Jazz Vibes,0.611,0.702,0,-6.944,1,0.0366,0.145,0.424,0.734,89.999,,False,test
+4rFCytpPDYKLzDJ5f5hFsJ,reconsider,Jost Esser,Jazz Vibes,0.746,0.197,2,-11.177,1,0.0548,0.792,0.0893,0.668,76.989,,False,test
+0nBaWCfOOitktygBKunrEi,repeat,Loop Schrauber,Jazz Vibes,0.804,0.224,1,-13.084,0,0.425,0.788,0.103,0.904,174.154,,False,train
+6cx8ChG8jGa5Qc91PIO2yF,rhythmuss sein,Knowsum,Jazz Vibes,0.728,0.415,10,-10.938,0,0.0565,0.951,0.103,0.349,84.082,,False,train
+0cZcOtDqLaavK7LowhTBsa,sunny,j'san,Jazz Vibes,0.811,0.429,0,-11.503,1,0.0789,0.468,0.109,0.646,138.027,,False,train
+7gPjBaQ0ezSHIAVlYTk9ad,sunset cruise,Slowheal,Jazz Vibes,0.646,0.538,5,-8.997,1,0.0639,0.817,0.0811,0.24,90.022,,False,test
+5qCr1Rq9otIdSC2WyAJ1fH,taiyō,lōland,Jazz Vibes,0.468,0.519,0,-6.48,1,0.0843,0.81,0.279,0.187,87.692,,False,test
+2lN0R35eOsdqBnFaQ5k0rM,take me there,potsu,Jazz Vibes,0.692,0.448,0,-13.417,1,0.0286,0.772,0.347,0.533,102.013,japanese chillhop|lo-fi beats,True,train
+4ZngBJlBDwEwl3Fv2Hy6QQ,tilda,keko.the.dog,Jazz Vibes,0.675,0.472,1,-10.885,1,0.0577,0.656,0.0838,0.615,170.009,,False,train
+4T2mW6Ie4bg7KD1yV6aMdb,vybes,Loop Schrauber,Jazz Vibes,0.775,0.0674,7,-13.869,1,0.273,0.478,0.113,0.784,88.969,,False,train
+1eBWD3ra0HeWRhPYuBf317,A Few Reasons (truth Part 2),Dwele,Neo Soul Music,0.697,0.57,0,-9.747,1,0.31,0.0428,0.0689,0.625,165.683,neo soul|r&b|urban contemporary,True,train
+1CeizRCGEYPWooEeVfmyFL,A Long Walk,Jill Scott,Neo Soul Music,0.713,0.541,6,-9.295,0,0.248,0.0617,0.112,0.28,75.714,hip pop|neo soul|quiet storm|r&b|soul|urban contemporary,True,train
+3sDeuisFRzTK7dfwlNvoNK,A.N.G.E.L. - Interlude,Dwele,Neo Soul Music,0.684,0.396,10,-9.871,1,0.0327,0.486,0.0683,0.166,96.984,neo soul|r&b|urban contemporary,True,train
+6wIBZCIbbZh6ACDkWC5TX7,Ah Yeah,Robert Glasper Experiment,Neo Soul Music,0.632,0.41,5,-12.129,0,0.0677,0.696,0.104,0.33,71.972,,False,test
+0KHHrBbdvuJ6knLxj7dqkw,"All the Times (feat. Faith Evans, Coko & Missy Elliott)",LSG,Neo Soul Music,0.732,0.42,6,-6.867,1,0.0514,0.0687,0.289,0.473,137.45,neo soul|new jack swing|quiet storm|r&b|urban contemporary,True,train
+5WBGDhBBIKqnJdPFlSmCWc,Alone Together,Daley,Neo Soul Music,0.507,0.497,0,-8.366,0,0.12,0.177,0.132,0.307,89.637,neo soul,True,train
+1wRQqmZwiF4thdQ8N7FiNv,Alright,Ledisi,Neo Soul Music,0.626,0.417,8,-8.216,1,0.146,0.18,0.111,0.209,173.629,hip pop|neo soul|new jack swing|quiet storm|r&b|urban contemporary,True,train
+24m5vklX7lGxNA75IGafuu,At The Same Time,Eric Roberson,Neo Soul Music,0.513,0.552,7,-7.931,1,0.0494,0.545,0.14,0.34,135.728,,False,test
+0wTjUM8Azk3fV46bDghbmZ,Baby Come Over (feat. Dwele),Hil St. Soul,Neo Soul Music,0.679,0.635,2,-6.638,1,0.199,0.576,0.0846,0.349,75.952,,False,train
+0rcuDEcrzF4Zo6ZbUEhaIn,Believe,Raheem DeVaughn,Neo Soul Music,0.622,0.312,3,-7.834,0,0.049,0.493,0.144,0.518,123.821,dance pop|hip pop|neo soul|new jack swing|quiet storm|r&b|urban contemporary,True,train
+1Ge8R2h7W0IlaAHl6Q2kM3,Best Friend,Ledisi,Neo Soul Music,0.774,0.562,7,-6.225,1,0.331,0.142,0.0541,0.528,83.013,hip pop|neo soul|new jack swing|quiet storm|r&b|urban contemporary,True,train
+4OXjsRE0RQsOAalWabZRY8,Best of Me,Anthony Hamilton,Neo Soul Music,0.744,0.729,1,-6.612,1,0.031,0.00823,0.15,0.689,95.983,neo soul|new jack swing|quiet storm|r&b|soul|urban contemporary,True,train
+2hGXdfWHKIxciCfHRQpUa1,Blind Paradise,Debórah Bond,Neo Soul Music,0.653,0.777,2,-5.032,1,0.11,0.284,0.151,0.734,91.035,,False,train
+23mnIH4CZemgZgkyb0W1cC,Body Parts,Raphael Saadiq,Neo Soul Music,0.809,0.457,1,-7.678,1,0.0466,0.0486,0.37,0.623,96.331,funk|hip hop|indie soul|neo soul|r&b|soul|urban contemporary,True,train
+7MpNMARq9fDSYEIHwKNQTy,Can't B Good,Janet Jackson,Neo Soul Music,0.66,0.584,2,-6.503,1,0.116,0.381,0.217,0.238,87.048,dance pop|hip pop|neo soul|new jack swing|r&b|urban contemporary,True,train
+43d3WCkXuVnN4P0HSLS29Z,Can't Get Enough,Kenny Lattimore,Neo Soul Music,0.787,0.392,5,-9.444,0,0.148,0.83,0.139,0.832,96.019,neo soul|new jack swing|quiet storm|r&b|urban contemporary,True,train
+2SLKMhxrgJZ8TEPwhCt1gh,Caught My Eye,Mint Condition,Neo Soul Music,0.599,0.468,0,-6.787,1,0.0311,0.00668,0.443,0.628,140.043,funk|hip pop|minneapolis sound|neo soul|new jack swing|quiet storm|r&b|soul|urban contemporary,True,train
+1jjO9DOHrnCJrpiuyiavKw,Caught Up,Teedra Moses,Neo Soul Music,0.72,0.457,8,-7.999,0,0.0434,0.216,0.119,0.819,97.089,alternative r&b|hip pop|neo soul|r&b|urban contemporary,True,train
+1GoTvQP3JEeA8oh5I9b2xc,Cleva,Erykah Badu,Neo Soul Music,0.738,0.382,1,-11.799,1,0.0765,0.0417,0.116,0.636,83.126,afrofuturism|hip hop|neo soul|r&b|soul|urban contemporary,True,test
+3r9JScgtH2FiAQ9bwThV0U,Come Over,Estelle,Neo Soul Music,0.683,0.747,8,-3.465,0,0.113,0.0261,0.261,0.722,81.998,r&b,True,train
+4FsDX5RRFm9F5f1ts9KWKb,Come Over,Rahsaan Patterson,Neo Soul Music,0.718,0.501,5,-6.143,1,0.0292,0.101,0.105,0.587,96.076,funk|neo r&b|neo soul|r&b|smooth soul|urban contemporary,True,test
+4wmFfoH3y0RRkIQPhl2Qyw,Comes To Light (Everything),Jill Scott,Neo Soul Music,0.656,0.264,4,-12.731,1,0.0381,0.817,0.133,0.464,129.504,hip pop|neo soul|quiet storm|r&b|soul|urban contemporary,True,test
+67ri2FYvHV64JSQTHN98iy,Do What U Gotta Do,Angie Stone,Neo Soul Music,0.787,0.39,10,-5.431,0,0.147,0.185,0.156,0.635,86.985,neo soul|r&b|soul|urban contemporary,True,train
+1foKxpDK99pTmoEJpJbJaK,Don't Call,Leon Timbo,Neo Soul Music,0.768,0.369,10,-7.937,1,0.0545,0.218,0.119,0.537,76.037,,False,train
+6yj6Si5hkcs1khQyzj0stc,Don't Change,Conya Doss,Neo Soul Music,0.529,0.522,8,-7.584,0,0.06,0.692,0.406,0.415,82.837,,False,train
+6giuQX8Vkn44flOhzbe1il,Eternally,Marwan Soulflow,Neo Soul Music,0.441,0.484,11,-12.614,0,0.0506,0.129,0.12,0.319,67.5,,False,train
+0OZjtuIbOvPkCy6zlgyNOk,Everyday,Jamiroquai,Neo Soul Music,0.689,0.321,11,-18.075,0,0.0343,0.406,0.0845,0.81,136.073,dance pop|pop dance,True,test
+7okKZ5JfRIJBcqKhX2fTmU,Everyday,Angie Stone,Neo Soul Music,0.712,0.365,4,-7.862,0,0.212,0.373,0.171,0.529,81.847,neo soul|r&b|soul|urban contemporary,True,test
+1NyMdeeVDYizUcXHConsq6,Femininity,Eric Benét,Neo Soul Music,0.677,0.63,6,-4.778,1,0.05,0.102,0.0554,0.625,72.954,neo soul|new jack swing|quiet storm|r&b|urban contemporary,True,train
+5VIUVUvwHPM2vJaQpznd5W,Fire We Make,Alicia Keys,Neo Soul Music,0.552,0.403,2,-11.791,0,0.167,0.402,0.0617,0.394,67.531,hip pop|neo soul|pop|r&b|urban contemporary,True,test
+79yRAE9yyOqVEyJ74heFxl,For Real,Amel Larrieux,Neo Soul Music,0.595,0.525,11,-7.338,1,0.245,0.32,0.0419,0.756,136.061,neo soul|r&b|urban contemporary,True,train
+5K80qDIi8z8nfgiSGsQap0,Forever,Kenny Lattimore,Neo Soul Music,0.691,0.457,5,-9.652,0,0.0485,0.195,0.192,0.255,144.372,neo soul|new jack swing|quiet storm|r&b|urban contemporary,True,train
+00FR9VQ0uzF4NNxVKKiMz2,Full Of Smoke,Christión,Neo Soul Music,0.389,0.616,1,-8.747,0,0.284,0.453,0.916,0.716,145.461,,False,train
+5YzK2kmIM7cdpRbv0iGaEs,Get Up,Amel Larrieux,Neo Soul Music,0.631,0.494,11,-8.335,0,0.101,0.31,0.064,0.542,88.559,neo soul|r&b|urban contemporary,True,train
+1QGO7udymj4xp6w8jbpiF8,Get to Know Ya,Maxwell,Neo Soul Music,0.761,0.644,7,-6.498,1,0.0531,0.239,0.052,0.917,101.015,dance pop|funk|hip pop|neo soul|new jack swing|quiet storm|r&b|soul|urban contemporary,True,train
+2dWuF9P2H0JtmQdX87RPz3,Give It to You (feat. Musiq Soulchild),Meelah,Neo Soul Music,0.551,0.488,9,-7.537,0,0.0529,0.516,0.318,0.324,80.041,,False,train
+2bNbnpiLHz29s0ceWIlX7T,Hell Yeah!,Stacy Barthe,Neo Soul Music,0.53,0.77,6,-3.092,0,0.276,0.000181,0.238,0.438,159.09,pop soul,True,train
+65Zm64XaqNj1pXGAS6Z4hs,Her Favorite Song,Mayer Hawthorne,Neo Soul Music,0.615,0.921,10,-5.118,0,0.227,0.0261,0.0982,0.59,87.236,funk|indie soul|neo soul|pop soul|soul,True,test
+6pYVNe0zSSjouxy49g8tfy,I Blame You,Ledisi,Neo Soul Music,0.7,0.638,1,-5.98,1,0.0634,0.141,0.0691,0.593,95.949,hip pop|neo soul|new jack swing|quiet storm|r&b|urban contemporary,True,train
+1lQGlCQS09Q2l0iONMsTcZ,I Decided,Liv Warfield,Neo Soul Music,0.837,0.325,1,-10.16,0,0.157,0.572,0.289,0.384,116.03,,False,train
+1TlEEopIktdAi8oWRf9Qx6,I Think I Love You,Dwele,Neo Soul Music,0.549,0.491,0,-9.537,1,0.127,0.111,0.0564,0.728,203.818,neo soul|r&b|urban contemporary,True,train
+3VNIHK4Dnxyf1EY2D1kolb,I Used To Love Him,Ms. Lauryn Hill,Neo Soul Music,0.486,0.797,9,-7.632,0,0.231,0.06,0.331,0.745,87.445,conscious hip hop|dance pop|hip pop|neo soul|new jersey rap|r&b|urban contemporary,True,train
+2PKiB1i2DwG2npY2xxjLnE,I'm Cheatin',Dwele,Neo Soul Music,0.746,0.457,3,-7.532,0,0.049,0.708,0.202,0.467,92.025,neo soul|r&b|urban contemporary,True,train
+5VPdmXGp3BR6Xst5gmbQrO,I'm In Love,Kem,Neo Soul Music,0.906,0.421,2,-8.859,1,0.0314,0.26,0.0988,0.359,97.03,neo soul|new jack swing|quiet storm|r&b|soul|urban contemporary,True,train
+326jVYfqtef7U87YaqOFfC,It's Alright Now,Rahsaan Patterson,Neo Soul Music,0.594,0.503,7,-8.112,1,0.0372,0.0558,0.0233,0.394,79.996,funk|neo r&b|neo soul|r&b|smooth soul|urban contemporary,True,train
+4yFFSucK3BVP1Wp7MQ6c7t,Just Can't Get Over You,Kenny Lattimore,Neo Soul Music,0.738,0.295,10,-8.699,0,0.0588,0.135,0.133,0.539,79.939,neo soul|new jack swing|quiet storm|r&b|urban contemporary,True,train
+0PWqC3xDoCWyqy1IW3RiKE,Knockin',Angel Grant,Neo Soul Music,0.889,0.485,6,-8.883,0,0.0369,0.557,0.0678,0.908,105.919,,False,train
+1PB9jyumBYH6jbVpzr3DSs,Late Night Rendezvous,Carl Thomas,Neo Soul Music,0.464,0.465,0,-8.162,1,0.051,0.28,0.167,0.448,63.14,dance pop|hip pop|neo soul|new jack swing|quiet storm|r&b|urban contemporary,True,test
+2PXv2AkAZkqYqc96gDKXuA,Let's Stay Home Tonight,Joe,Neo Soul Music,0.691,0.742,0,-4.49,0,0.0602,0.145,0.0944,0.722,90.102,album rock|classic rock|folk rock|mellow gold|piano rock|rock|singer-songwriter|soft rock,True,train
+2GrdCnHVMh0DrkmMzFMJaN,Like This,Ledisi,Neo Soul Music,0.605,0.773,7,-5.662,0,0.136,0.0548,0.107,0.604,82.823,hip pop|neo soul|new jack swing|quiet storm|r&b|urban contemporary,True,train
+7BW60EnubNl94HnwcuB0E0,Love Drug,Raheem DeVaughn,Neo Soul Music,0.523,0.673,7,-6.226,0,0.0861,0.0914,0.163,0.413,149.497,dance pop|hip pop|neo soul|new jack swing|quiet storm|r&b|urban contemporary,True,test
+7gEGhEb1VcCeC6lJWnjI9Z,Love No Limit,Mary J. Blige,Neo Soul Music,0.558,0.695,11,-7.853,0,0.04,0.165,0.216,0.621,169.564,dance pop|hip pop|neo soul|pop|r&b|urban contemporary,True,train
+7g3Htzh3rezIFVWAy59vsw,Love of My Own,Eric Benét,Neo Soul Music,0.644,0.341,8,-8.513,0,0.0361,0.256,0.0804,0.14,76.727,neo soul|new jack swing|quiet storm|r&b|urban contemporary,True,train
+7M4CRFWgCuqYOuh5Kz1hm5,Lovin' You,Tony! Toni! Toné!,Neo Soul Music,0.618,0.738,9,-7.908,0,0.0695,0.0933,0.344,0.741,82.29,funk|hip pop|neo soul|new jack swing|quiet storm|r&b|soul|urban contemporary,True,test
+3MyTEl8ZL0qKXFqyvbYsC5,Loving Me 4 Me,Christina Aguilera,Neo Soul Music,0.628,0.496,8,-6.003,1,0.0492,0.174,0.106,0.203,76.655,dance pop|pop|pop dance|pop rap|post-teen pop,True,train
+07fqonJcksfEG2Fav9SDA2,Make Believe,Kenny Lattimore,Neo Soul Music,0.656,0.418,5,-5.914,0,0.0523,0.422,0.15,0.353,137.671,neo soul|new jack swing|quiet storm|r&b|urban contemporary,True,train
+37clf85ZAJGszhC15NxskJ,Maker Of Love,Boney James,Neo Soul Music,0.418,0.643,4,-9.029,0,0.229,0.156,0.0804,0.397,73.141,smooth jazz|smooth saxophone,True,train
+0wjo8DmCAqZ1q3lVLCyrRG,Marathon,Raheem DeVaughn,Neo Soul Music,0.596,0.595,0,-5.315,1,0.0655,0.585,0.426,0.411,86.676,dance pop|hip pop|neo soul|new jack swing|quiet storm|r&b|urban contemporary,True,train
+7KasuMXuWHA36uFtFKuHPw,March,"George Tandy, Jr.",Neo Soul Music,0.565,0.465,11,-7.804,0,0.0843,0.367,0.103,0.228,126.342,,False,test
+6dFs9SRuQ8FKK3WORqoa3D,Mary Go Round,Musiq Soulchild,Neo Soul Music,0.554,0.472,0,-8.215,1,0.285,0.305,0.119,0.497,141.283,dance pop|hip pop|neo soul|new jack swing|quiet storm|r&b|urban contemporary,True,train
+1mIMTXtS7NPOD1Xq63Zxhq,Matrimony: Maybe You,Maxwell,Neo Soul Music,0.653,0.525,1,-10.022,1,0.149,0.402,0.471,0.339,96.043,dance pop|funk|hip pop|neo soul|new jack swing|quiet storm|r&b|soul|urban contemporary,True,test
+2rgUf9rK2lGJeA4crG4Tq0,Me and My B*tch,Jaheim,Neo Soul Music,0.783,0.516,8,-8.921,0,0.491,0.292,0.374,0.741,77.021,dance pop|hip pop|neo soul|new jack swing|pop rap|quiet storm|r&b|urban contemporary,True,train
+6XsT5UGfpaFeHQf5LRIy4W,"Me, Myself and I",Beyoncé,Neo Soul Music,0.75,0.458,1,-9.092,1,0.0803,0.226,0.137,0.536,83.61,dance pop|pop|post-teen pop|r&b,True,train
+2QCI3bdPI8c0DBy68GE2WR,Midnite - Interlude,Raheem DeVaughn,Neo Soul Music,0.699,0.455,2,-9.22,0,0.165,0.52,0.517,0.755,86.66,dance pop|hip pop|neo soul|new jack swing|quiet storm|r&b|urban contemporary,True,test
+0fgVs2FjWxf60Gk8aaoECK,More Than A Woman (feat. Calvin) - Duet w/ Calvin,Angie Stone,Neo Soul Music,0.685,0.404,5,-7.784,0,0.121,0.445,0.116,0.473,131.846,neo soul|r&b|soul|urban contemporary,True,train
+73nnFqLGSezcmpCzXSto88,"My Life - From ""Despicable Me"" Soundtrack",Robin Thicke,Neo Soul Music,0.795,0.492,0,-8.703,1,0.0354,0.139,0.0762,0.463,120.013,dance pop|hip pop|neo soul|pop dance|r&b|urban contemporary,True,train
+5KGlx7rfcjhVGtqkZpIxe2,My Peoples feat. Raheem,DJ Jazzy Jeff,Neo Soul Music,0.757,0.65,7,-7.029,1,0.279,0.272,0.511,0.875,90.003,gangster rap|hip hop|old school hip hop|philly rap|rap,True,train
+4tnxaszwEXGQSow1888pVN,My Soul Ain't For Sale feat. Raheem Devaughn,DJ Jazzy Jeff,Neo Soul Music,0.655,0.841,7,-4.79,1,0.17,0.274,0.0429,0.809,91.936,gangster rap|hip hop|old school hip hop|philly rap|rap,True,train
+4mMdBN8941wKh5rAmIK3bf,Never Was,Debórah Bond,Neo Soul Music,0.624,0.562,7,-6.197,1,0.0384,0.49,0.0894,0.224,82.002,,False,test
+09iWF1Hs988cmZneyLeZ2V,News For You,Eric Benét,Neo Soul Music,0.65,0.772,6,-4.976,1,0.121,0.112,0.0967,0.783,152.047,neo soul|new jack swing|quiet storm|r&b|urban contemporary,True,train
+5AYPC1YEJdwPqnPz0Lib50,Nothing Like Loving You,Amerie,Neo Soul Music,0.739,0.48,8,-8.116,0,0.0412,0.222,0.122,0.663,140.071,dance pop|hip hop|hip pop|neo soul|pop rap|r&b|urban contemporary,True,train
+2R4gp8sppwatyDq48Xsu9q,Outside Your Door,Meshell Ndegeocello,Neo Soul Music,0.767,0.328,11,-14.023,0,0.0375,0.0897,0.0644,0.507,137.16,funk|neo soul,True,train
+1Laz0NZ0URkQVnw3TyZcvw,Picture Perfect(Featuring Phonte) (Extended Version),Eric Roberson,Neo Soul Music,0.633,0.616,11,-10.087,0,0.271,0.234,0.0895,0.52,87.283,,False,train
+6bffRphpayegEeBZBh9TV9,Pieces,Hil St. Soul,Neo Soul Music,0.646,0.564,7,-5.396,1,0.0832,0.00685,0.291,0.48,143.957,,False,train
+1O64lNU0k9bGiWJVGt8et8,Rush Over,Marcus Miller,Neo Soul Music,0.711,0.531,4,-12.264,0,0.036,0.373,0.124,0.514,87.619,electric bass|instrumental funk|jazz funk|jazz fusion|modern funk,True,train
+2fE4MbwX3QGMzNaMjGVhtw,Say Yes,Floetry,Neo Soul Music,0.747,0.398,5,-12.932,0,0.0743,0.211,0.113,0.428,117.901,british soul|hip pop|neo soul|new jack swing|quiet storm|r&b|urban contemporary,True,test
+1HvmjWFZpe1lrEl1ehLsvr,Share My World,Mary J. Blige,Neo Soul Music,0.707,0.539,4,-6.742,0,0.0373,0.015,0.12,0.747,140.021,dance pop|hip pop|neo soul|pop|r&b|urban contemporary,True,train
+3IlcFFY0W9gNomWQjnX6Rj,Show Me,Jill Scott,Neo Soul Music,0.723,0.351,2,-10.719,0,0.0709,0.414,0.388,0.284,137.934,hip pop|neo soul|quiet storm|r&b|soul|urban contemporary,True,train
+19asXa48FNoDzO8PaQm9MN,Softest Place On Earth,Xscape,Neo Soul Music,0.773,0.309,7,-8.5,0,0.0339,0.415,0.111,0.42,128.105,atl hip hop|dance pop|girl group|hip pop|neo soul|new jack swing|pop r&b|quiet storm|r&b|urban contemporary,True,train
+6bYvDXrdNSbejfugnxggvp,Spaceship Coupe,Justin Timberlake,Neo Soul Music,0.627,0.488,11,-8.212,0,0.0445,0.304,0.173,0.274,126.053,dance pop|pop,True,train
+14VwBAL1qSlG4ovOSYUQF4,Spend The Night,Rahsaan Patterson,Neo Soul Music,0.683,0.546,2,-9.086,0,0.0224,0.0388,0.0633,0.735,90.018,funk|neo r&b|neo soul|r&b|smooth soul|urban contemporary,True,train
+20khkbcFHJ63mEJ6nctzcr,Stay,Meshell Ndegeocello,Neo Soul Music,0.746,0.459,2,-12.999,1,0.0804,0.0718,0.0513,0.761,75.09,funk|neo soul,True,train
+1gWFuF1aCfnjonAdyDfV7Y,Stop the World,Maxwell,Neo Soul Music,0.73,0.538,0,-8.478,1,0.07,0.27,0.089,0.515,120.027,dance pop|funk|hip pop|neo soul|new jack swing|quiet storm|r&b|soul|urban contemporary,True,train
+1DHybjrWooObUXiqceVDcj,Suitelady (The Proposal Jam),Maxwell,Neo Soul Music,0.67,0.442,2,-7.755,0,0.0582,0.0822,0.0699,0.399,78.084,dance pop|funk|hip pop|neo soul|new jack swing|quiet storm|r&b|soul|urban contemporary,True,train
+2qDptLjqWLqRDD4MHgbDhp,Summertime Anthem (Featuring Chubb Rock),Eric Roberson,Neo Soul Music,0.751,0.711,11,-8.971,1,0.104,0.188,0.316,0.883,100.877,,False,train
+4fb7LB7OOaKcahftS4k9lD,Take Me,Teedra Moses,Neo Soul Music,0.7,0.423,0,-7.149,1,0.0306,0.0292,0.0825,0.429,86.289,alternative r&b|hip pop|neo soul|r&b|urban contemporary,True,test
+2FA1ckR1QDUBaHdrlTam6Q,The One For Me,Rahsaan Patterson,Neo Soul Music,0.619,0.524,1,-5.286,1,0.0473,0.809,0.113,0.577,96.056,funk|neo r&b|neo soul|r&b|smooth soul|urban contemporary,True,train
+6IuilfHQoQI1fJ2fliMhva,The Pledge Remix,Irv Gotti,Neo Soul Music,0.721,0.788,3,-6.759,0,0.216,0.0546,0.485,0.649,91.522,,False,train
+4fZDZMgyWBxTg2Rc4OHVtB,Through the Fire,Chaka Khan,Neo Soul Music,0.569,0.589,8,-7.395,1,0.0306,0.166,0.132,0.409,130.865,dance pop|disco|funk|motown|neo soul|post-disco|quiet storm|soul|urban contemporary,True,train
+4cwW9clavlRQYKDjU59BEK,Tomorrow,The Roots,Neo Soul Music,0.85,0.52,5,-12.658,0,0.195,0.0592,0.077,0.606,75.992,alternative hip hop|conscious hip hop|east coast hip hop|hardcore hip hop|hip hop|neo soul|philly rap|political hip hop|southern hip hop,True,test
+1mC7u32zemMLC1mVOU02Pm,U Send Me Swingin',Mint Condition,Neo Soul Music,0.608,0.569,6,-5.835,0,0.0283,0.123,0.151,0.346,72.076,funk|hip pop|minneapolis sound|neo soul|new jack swing|quiet storm|r&b|soul|urban contemporary,True,train
+7iNGGLUS7x4RA6IM0De2R9,W/As My Girl,Maxwell,Neo Soul Music,0.673,0.456,4,-10.079,0,0.0384,0.12,0.0794,0.32,83.08,dance pop|funk|hip pop|neo soul|new jack swing|quiet storm|r&b|soul|urban contemporary,True,train
+6IfE60JXZtq2rHvEjsyvpR,We Live In Philly (featuring Jill Scott),DJ Jazzy Jeff,Neo Soul Music,0.694,0.744,2,-8.061,1,0.165,0.134,0.159,0.492,94.012,gangster rap|hip hop|old school hip hop|philly rap|rap,True,train
+4ZxH5B7JMRjNbHRm47AzUy,"Where You Are, Pt. 2 (Is Where I Wanna Be)",Donell Jones,Neo Soul Music,0.585,0.311,0,-11.558,0,0.0403,0.59,0.272,0.385,125.936,dance pop|hip hop|hip pop|neo soul|new jack swing|pop rap|quiet storm|r&b|urban contemporary,True,train
+3vxpjYukjL07Vdzw7wIJtC,Without You,Dwele,Neo Soul Music,0.738,0.694,2,-6.953,0,0.455,0.28,0.242,0.537,92.029,neo soul|r&b|urban contemporary,True,test
+34XO9RwPMKjbvRry54QzWn,You Don't Have To Hurt No More,Mint Condition,Neo Soul Music,0.769,0.449,8,-6.757,0,0.0282,0.0717,0.0851,0.481,113.89,funk|hip pop|minneapolis sound|neo soul|new jack swing|quiet storm|r&b|soul|urban contemporary,True,train
+2b6nCD2LqFzcczjGvKIZDc,You Got Me,Conya Doss,Neo Soul Music,0.626,0.596,8,-8.042,1,0.122,0.469,0.13,0.461,88.017,,False,train
+322NiD7O6CXX7zYIKRtXV9,You're The One That I Like,Raphael Saadiq,Neo Soul Music,0.76,0.542,4,-7.741,0,0.256,0.348,0.333,0.455,89.665,funk|hip hop|indie soul|neo soul|r&b|soul|urban contemporary,True,train
+3ekvPNnFzO7okhIkZ8jsGH,sobeautiful,Musiq Soulchild,Neo Soul Music,0.689,0.562,7,-7.048,0,0.0637,0.0656,0.0885,0.21,133.987,dance pop|hip pop|neo soul|new jack swing|quiet storm|r&b|urban contemporary,True,train
+0tDSgSmZsbxCkdkfUPjg59,5 Letras,Alexis y Fido,Reggaeton Classics,0.82,0.788,6,-5.478,0,0.191,0.272,0.0404,0.648,93.961,latin|latin hip hop|reggaeton|reggaeton flow|trap latino|tropical,True,train
+3uvypVUsiIr1B0BccIcsEh,6 AM,J Balvin,Reggaeton Classics,0.746,0.746,5,-5.046,0,0.102,0.152,0.274,0.733,175.965,latin|reggaeton|reggaeton colombiano,True,train
+50K0GKbudptd9wZwQlQWdj,Agarrala,Trebol Clan,Reggaeton Classics,0.744,0.921,9,-4.521,0,0.0889,0.172,0.146,0.718,93.001,latin|latin hip hop|reggaeton|reggaeton flow|trap latino|tropical,True,train
+49vwUeeauJgEQxDViXA01C,Al Natural (feat. Yandel),Tego Calderon,Reggaeton Classics,0.924,0.782,10,-4.55,0,0.0816,0.246,0.0659,0.745,95.01,latin|latin hip hop|perreo|reggaeton|reggaeton flow|trap latino|tropical,True,train
+4oYN44rloSqxabqrSgIani,Algo Musical,Ñejo & Dalmata,Reggaeton Classics,0.883,0.626,1,-7.541,1,0.0853,0.0648,0.0594,0.565,107.023,latin|latin hip hop|reggaeton|reggaeton flow|trap latino|tropical,True,test
+5RCcvZz5i0rckjbCTSPL1s,Aparentemente,Yaga & Mackie,Reggaeton Classics,0.86,0.699,3,-6.415,0,0.0974,0.0827,0.26,0.871,93.992,latin|latin hip hop|reggaeton|reggaeton flow|trap latino|tropical,True,test
+4euqcj46E0OZBiz0NjR4mO,Aquí Está Tu Caldo,Daddy Yankee,Reggaeton Classics,0.884,0.743,11,-7.65,1,0.112,0.116,0.127,0.781,95.997,latin|latin hip hop|reggaeton|trap latino|tropical,True,train
+1q8NdCAQ9QUjpYiqzdd3mv,Atrévete-Te-Te,Calle 13,Reggaeton Classics,0.829,0.878,9,-5.951,1,0.101,0.0959,0.776,0.883,87.991,latin|latin afrobeat|latin alternative|latin hip hop|puerto rican rock|rap conciencia|reggaeton|rock en espanol|tropical,True,test
+2qq5HTgeJTLL9oY7b4X16y,Automovil,Ñejo,Reggaeton Classics,0.79,0.765,6,-6.642,0,0.188,0.278,0.0721,0.964,170.063,latin|latin hip hop|perreo|reggaeton|reggaeton flow|trap latino|tropical,True,train
+3iRMZq3iIaIBW5bH4VgWtM,Aventura,Luny Tunes,Reggaeton Classics,0.858,0.741,9,-7.204,0,0.124,0.0196,0.0974,0.823,93.001,latin|latin hip hop|reggaeton|reggaeton flow|trap latino|tropical,True,train
+0uJrYOhFXe4Y86JXPPMqt1,Ay Amor - Reggaeton,Hector & Tito,Reggaeton Classics,0.576,0.783,9,-4.607,1,0.0792,0.195,0.106,0.634,89.879,latin|latin hip hop|perreo|reggaeton|reggaeton flow|trap latino|tropical,True,train
+6Ges5C2IE738iJh4HyQizQ,Ay Vamos,J Balvin,Reggaeton Classics,0.718,0.711,8,-5.746,0,0.11,0.157,0.1,0.92,173.916,latin|reggaeton|reggaeton colombiano,True,train
+3gvGnkmg8zVZdBAx4B7Cvq,Ayer La Vi,Don Omar,Reggaeton Classics,0.801,0.716,7,-8.398,0,0.0541,0.285,0.163,0.771,94.005,latin|latin hip hop|puerto rican pop|reggaeton|trap latino|tropical,True,test
+4BxzNZpcm1j3JczZzGNe2k,Bandoleros,Don Omar,Reggaeton Classics,0.662,0.896,5,-5.311,0,0.251,0.318,0.186,0.79,90.622,latin|latin hip hop|puerto rican pop|reggaeton|trap latino|tropical,True,train
+6DUdDIRgLqCGq1DwkNWQTN,Borro Cassette,Maluma,Reggaeton Classics,0.73,0.701,5,-5.885,0,0.106,0.132,0.151,0.785,175.95,reggaeton|reggaeton colombiano,True,train
+1lxswgIpzV6HhENRvkflES,Chillax (feat. Ky-Mani Marley),Farruko,Reggaeton Classics,0.827,0.646,1,-4.727,0,0.0766,0.0724,0.247,0.512,92.057,latin|latin hip hop|reggaeton|trap latino|tropical,True,test
+46DW3fyWuL4VZfEwnyWjXg,Chulin Culin Chunfly (feat. Residente Calle 13),Voltio,Reggaeton Classics,0.793,0.823,7,-6.39,1,0.0681,0.169,0.0986,0.616,91.997,latin|latin hip hop|reggaeton|reggaeton flow|trap latino|tropical,True,test
+4UxD6L5uah5Dvzs5kQwThG,Cuando Baila Reggaeton,Tego Calderon,Reggaeton Classics,0.848,0.801,10,-6.821,1,0.102,0.562,0.0624,0.908,95.027,latin|latin hip hop|perreo|reggaeton|reggaeton flow|trap latino|tropical,True,train
+1b4QQFr0kifiSkzHb5kni4,Dejale Caer To Peso,Yomo,Reggaeton Classics,0.864,0.721,3,-7.994,0,0.183,0.185,0.0623,0.762,96.026,latin|latin hip hop|reggaeton|reggaeton flow|trap latino|tropical,True,test
+69Ej1xrGjOcHvIMtMKxK0G,Dile,Don Omar,Reggaeton Classics,0.817,0.714,4,-7.501,0,0.141,0.184,0.042,0.714,94.001,latin|latin hip hop|puerto rican pop|reggaeton|trap latino|tropical,True,train
+5I0u5YHYvA6fQZstVCFwqC,Dile A Tu Amiga,Ñejo,Reggaeton Classics,0.788,0.674,2,-8.392,1,0.0537,0.281,0.0892,0.864,94.997,latin|latin hip hop|perreo|reggaeton|reggaeton flow|trap latino|tropical,True,train
+20ZAJdsKB5IGbGj4ilRt2o,Dile Que Tu Me Quieres,Ozuna,Reggaeton Classics,0.721,0.687,1,-6.682,1,0.0782,0.0998,0.0679,0.825,175.914,latin|puerto rican pop|reggaeton|trap latino,True,train
+45IOnEpVUdxWUZFqpZ7Xvz,Dominicana,Tego Calderon,Reggaeton Classics,0.845,0.906,7,-3.804,1,0.0687,0.188,0.0199,0.813,94.987,latin|latin hip hop|perreo|reggaeton|reggaeton flow|trap latino|tropical,True,train
+09QZbXkrHRww7Epv7qSnL0,Down,R.K.M & Ken-Y,Reggaeton Classics,0.799,0.783,8,-6.59,0,0.0881,0.546,0.102,0.786,94.987,latin|latin hip hop|reggaeton|reggaeton flow|trap latino|tropical,True,train
+2U4kPiipwfc2oHmd0nGoj5,Dutty Love,Don Omar,Reggaeton Classics,0.742,0.873,1,-3.373,1,0.082,0.232,0.114,0.899,90.004,latin|latin hip hop|puerto rican pop|reggaeton|trap latino|tropical,True,train
+4h4aAvqiftNLS5XeookGx1,El Carnaval,Baby Rasta & Gringo,Reggaeton Classics,0.802,0.625,11,-8.589,0,0.0567,0.00297,0.175,0.676,94.995,latin|latin hip hop|perreo|reggaeton|reggaeton flow|salsa choke|trap latino|tropical,True,train
+2PUbdd0s68EfVKlBCUW9Vq,El Doctorado,Tony Dize,Reggaeton Classics,0.719,0.773,10,-6.272,1,0.0377,0.0496,0.291,0.759,120.018,latin|latin hip hop|reggaeton|reggaeton flow|relaxative|trap latino|tropical,True,train
+614NVFo5csQqRnryl4jXs2,El Telefono,"Héctor ""El Father""",Reggaeton Classics,0.808,0.682,2,-7.128,1,0.0963,0.171,0.464,0.491,89.987,latin|latin hip hop|perreo|reggaeton|reggaeton flow|trap latino|tropical,True,train
+6G4U9avyBNEfP0fAIduev3,Ella Y Yo - Featuring Don Omar,Aventura,Reggaeton Classics,0.732,0.708,9,-7.905,0,0.262,0.534,0.237,0.717,175.924,bachata|bachata dominicana|latin|latin hip hop|latin pop|trap latino|tropical,True,train
+2Eg6dOam7cAe5turf2bnCg,En La Cama (feat. Daddy Yankee),Nicky Jam,Reggaeton Classics,0.855,0.912,10,-4.832,0,0.145,0.183,0.122,0.885,104.072,latin|latin hip hop|reggaeton|trap latino|tropical,True,test
+2qM1Uus4I6Yx2BGlIzXaI0,Es Un Secreto,Plan B,Reggaeton Classics,0.841,0.783,6,-4.915,0,0.0432,0.106,0.0528,0.514,94.989,latin|perreo|reggaeton|trap latino|tropical,True,train
+3njYteZvn759aNUXMCxiRX,Escápate Conmigo - Remix,Wolfine,Reggaeton Classics,0.831,0.89,8,-7.635,1,0.0791,0.173,0.352,0.76,94.007,colombian pop|latin|reggaeton|reggaeton flow|trap latino,True,train
+3QLApyuGYQdSQZTmBXFaSt,Felina,Hector & Tito,Reggaeton Classics,0.849,0.922,6,-6.604,0,0.0684,0.0275,0.0809,0.71,93.001,latin|latin hip hop|perreo|reggaeton|reggaeton flow|trap latino|tropical,True,train
+2oeyvFG0mFFDHUxhPVObNk,Flow Natural,"Tito ""El Bambino""",Reggaeton Classics,0.831,0.789,0,-5.498,1,0.0661,0.121,0.328,0.827,101.035,latin|latin hip hop|latin pop|reggaeton|reggaeton flow|trap latino|tropical,True,train
+15PxHZffHMndHQjmzYuGUv,Hay Algo en Ti,Luny Tunes,Reggaeton Classics,0.842,0.681,4,-8.149,0,0.0544,0.0115,0.113,0.238,96.017,latin|latin hip hop|reggaeton|reggaeton flow|trap latino|tropical,True,train
+2WHctubxf8LzrGr62cLz3d,Igual Que Ayer,R.K.M & Ken-Y,Reggaeton Classics,0.788,0.735,10,-7.171,0,0.0433,0.0225,0.0427,0.399,94.004,latin|latin hip hop|reggaeton|reggaeton flow|trap latino|tropical,True,train
+1IlJpEiMt4nuLr3cWFQUxa,La Botella,Mach & Daddy,Reggaeton Classics,0.752,0.795,0,-4.438,1,0.0415,0.193,0.0772,0.916,118.015,latin|latin hip hop|panamanian pop|reggaeton|tropical,True,train
+2UYXTSZkSxWJYGpcd64SRO,La Nueva Y La Ex,Daddy Yankee,Reggaeton Classics,0.637,0.945,5,-3.54,1,0.135,0.0373,0.116,0.578,198.05,latin|latin hip hop|reggaeton|trap latino|tropical,True,train
+4okba5wu9mMLXx79DXLKi3,La Rompe Corazones,Daddy Yankee,Reggaeton Classics,0.685,0.859,5,-2.595,0,0.0553,0.116,0.317,0.891,176.018,latin|latin hip hop|reggaeton|trap latino|tropical,True,train
+3pDhN3qB33AOPhQEkUCaWt,Limbo,Daddy Yankee,Reggaeton Classics,0.806,0.875,7,-3.817,1,0.088,0.0838,0.065,0.917,125.063,latin|latin hip hop|reggaeton|trap latino|tropical,True,test
+3bkBVEmRJuJZNh5iVgJkWm,Llamado de Emergencia,Daddy Yankee,Reggaeton Classics,0.699,0.91,4,-4.405,0,0.036,0.217,0.146,0.792,97.971,latin|latin hip hop|reggaeton|trap latino|tropical,True,train
+7oYouEGAQJpU75CAWFEMi2,Llamé Pa' Verte,Wisin,Reggaeton Classics,0.841,0.808,10,-5.55,1,0.0749,0.0711,0.0816,0.66,95.0,latin|latin hip hop|reggaeton|reggaeton flow|trap latino|tropical,True,train
+7Eo3fkg16MzIgv9SxxSonH,Llegó la Cripta,El Chombo,Reggaeton Classics,0.919,0.848,7,-10.511,1,0.165,0.0078,0.338,0.959,109.183,latin|latin hip hop|panamanian pop|reggaeton|tropical,True,train
+6z5Xrx58p5Bs18RIe6KXbI,"Lo Que Pasó, Pasó",Daddy Yankee,Reggaeton Classics,0.816,0.747,8,-6.468,0,0.0411,0.102,0.263,0.848,97.019,latin|latin hip hop|reggaeton|trap latino|tropical,True,train
+3tI4duDhHmmz1Sp7RX0Jbq,Mala Conducta (feat. Franco El Gorila),Alexis y Fido,Reggaeton Classics,0.711,0.841,6,-4.775,0,0.0917,0.231,0.191,0.964,176.027,latin|latin hip hop|reggaeton|reggaeton flow|trap latino|tropical,True,train
+6GrPaW2OIHuweYcVRoYbmv,Me Matas,R.K.M & Ken-Y,Reggaeton Classics,0.773,0.685,7,-8.271,1,0.0895,0.0514,0.445,0.558,92.978,latin|latin hip hop|reggaeton|reggaeton flow|trap latino|tropical,True,train
+6YLJCOynR32U4YXtsvzTdC,Mi Cama Huele a Ti,"Tito ""El Bambino""",Reggaeton Classics,0.738,0.85,7,-5.818,0,0.0403,0.0775,0.162,0.678,94.999,latin|latin hip hop|latin pop|reggaeton|reggaeton flow|trap latino|tropical,True,test
+7rbtNjuh56l71xV7Uowf50,Mi Fanatica,Arcangel,Reggaeton Classics,0.875,0.691,4,-7.704,1,0.114,0.0446,0.219,0.612,92.993,latin|latin hip hop|reggaeton|trap latino|tropical,True,train
+4fFgpzgSkmn3wajioLBPOr,Mis Ojos Lloran Por Ti,Big Boy,Reggaeton Classics,0.794,0.831,8,-9.235,1,0.331,0.0135,0.11,0.328,172.407,latin|latin hip hop|reggaeton|tropical,True,train
+1ZE19OuOnqsMFB6V9Gtzcy,Morena - Re-Mix,Hector & Tito,Reggaeton Classics,0.811,0.75,4,-5.338,0,0.0591,0.204,0.0875,0.742,93.991,latin|latin hip hop|perreo|reggaeton|reggaeton flow|trap latino|tropical,True,train
+04uA3BJ1Rj8DBKkpKCABJx,Mírala Bien,Wisin & Yandel,Reggaeton Classics,0.815,0.856,1,-4.399,0,0.13,0.255,0.0697,0.713,96.014,electro latino|latin|latin hip hop|reggaeton|trap latino|tropical,True,train
+2Jz1X6ZB0gkkCVgmeVGVGp,Na De Na,Angel Y Khriz,Reggaeton Classics,0.878,0.894,6,-5.834,1,0.123,0.184,0.105,0.682,119.927,latin|latin hip hop|latin pop|reggaeton|trap latino|tropical,True,test
+3rMyZL6J4t2EeZKMTD1UaI,No Le Temas a el Beat,Trebol Clan,Reggaeton Classics,0.672,0.54,9,-8.096,0,0.063,0.0192,0.19,0.208,172.013,latin|latin hip hop|reggaeton|reggaeton flow|trap latino|tropical,True,test
+5XxOOXTiDicBrQXv0PAAH6,No Quiere Novio (remix) [feat. Nejo & Tego Calderon],DJ Nelson,Reggaeton Classics,0.873,0.823,6,-3.182,0,0.215,0.378,0.145,0.804,95.012,latin|latin hip hop|reggaeton|reggaeton flow|trap latino|tropical,True,train
+32SmDHzbqYRAhX9Jq4gDnT,"No Se De Ella ""My Space""",Don Omar,Reggaeton Classics,0.815,0.676,9,-9.174,0,0.0934,0.233,0.242,0.77,88.008,latin|latin hip hop|puerto rican pop|reggaeton|trap latino|tropical,True,test
+4kAtRwNRLMKuoCbxMSxUGI,Noche De Sexo,Wisin & Yandel,Reggaeton Classics,0.686,0.722,2,-5.4,1,0.256,0.108,0.494,0.515,94.006,electro latino|latin|latin hip hop|reggaeton|trap latino|tropical,True,train
+6ODIW5KyJKtXY2rOuXv9WW,Noche de Travesura,"Héctor ""El Father""",Reggaeton Classics,0.833,0.626,9,-7.715,1,0.188,0.447,0.0805,0.409,92.013,latin|latin hip hop|perreo|reggaeton|reggaeton flow|trap latino|tropical,True,train
+3J6vrRMz6EfwH2sgYiyNhc,Oye Mi Canto,N.O.R.E.,Reggaeton Classics,0.677,0.946,6,-2.887,1,0.0553,0.185,0.274,0.948,96.011,gangster rap|hardcore hip hop|hip hop|hip pop|pop rap|queens hip hop|rap|southern hip hop,True,test
+1pLCpA1RN8avJxSD3ZCwhj,Pa' Que La Pases Bien,Arcangel,Reggaeton Classics,0.897,0.755,9,-5.684,0,0.144,0.00758,0.264,0.567,110.008,latin|latin hip hop|reggaeton|trap latino|tropical,True,train
+5YJ4BVvTFmVCxUyhKejHfR,Pa' Que Retozen,Tego Calderon,Reggaeton Classics,0.815,0.856,1,-3.825,0,0.122,0.4,0.244,0.872,91.995,latin|latin hip hop|perreo|reggaeton|reggaeton flow|trap latino|tropical,True,test
+2up69Rho7swRdP1MHqzX3n,Pam Pam,Wisin & Yandel,Reggaeton Classics,0.874,0.69,10,-6.373,1,0.114,0.121,0.249,0.735,95.025,electro latino|latin|latin hip hop|reggaeton|trap latino|tropical,True,train
+1f2AyplMMO29MHBkjfFRmc,Papi Chulo,El Chombo,Reggaeton Classics,0.893,0.851,1,-6.42,1,0.112,0.0809,0.0246,0.837,110.005,latin|latin hip hop|panamanian pop|reggaeton|tropical,True,train
+1MfqPCs3Y722VK6zkWZ98Z,Pasarela,Ñejo & Dalmata,Reggaeton Classics,0.798,0.821,7,-6.143,1,0.0596,0.0985,0.178,0.525,95.004,latin|latin hip hop|reggaeton|reggaeton flow|trap latino|tropical,True,test
+40LW0IOX1DDxqvnTLpAKrq,Passion Whine,Farruko,Reggaeton Classics,0.756,0.69,10,-3.87,0,0.0656,0.329,0.0586,0.783,162.005,latin|latin hip hop|reggaeton|trap latino|tropical,True,train
+4JOcMuy5myeEaNCKlu5j19,Perdóname,Eddy Lover,Reggaeton Classics,0.679,0.818,9,-5.67,0,0.0315,0.244,0.158,0.392,95.013,latin|latin hip hop|panamanian pop|reggaeton|tropical,True,train
+4uJSxi5beZ9GSzq5OKH09h,Permitame,Tony Dize,Reggaeton Classics,0.631,0.67,8,-6.958,1,0.153,0.0247,0.128,0.884,213.99,latin|latin hip hop|reggaeton|reggaeton flow|relaxative|trap latino|tropical,True,train
+26RZ3DhnVlytdG6N1oxW1E,Pobre Diabla,Don Omar,Reggaeton Classics,0.748,0.763,5,-6.995,1,0.0517,0.453,0.0877,0.849,91.979,latin|latin hip hop|puerto rican pop|reggaeton|trap latino|tropical,True,train
+388YhDYxPvaDIZQHWqpB4E,Punto y Aparte,Tego Calderon,Reggaeton Classics,0.808,0.767,1,-4.912,0,0.0445,0.255,0.0886,0.722,94.998,latin|latin hip hop|perreo|reggaeton|reggaeton flow|trap latino|tropical,True,test
+4HNlRF6Nux7jU68kTpX7CP,Quiero Bailar,Ivy Queen,Reggaeton Classics,0.815,0.826,5,-5.217,1,0.155,0.283,0.256,0.737,95.031,latin|latin hip hop|rap latina|reggaeton|trap latino|tropical,True,train
+4VKI2yBkCE4mWhFBwZp0LU,Quiero Saber,Ivy Queen,Reggaeton Classics,0.846,0.905,6,-3.686,0,0.0588,0.139,0.228,0.843,95.018,latin|latin hip hop|rap latina|reggaeton|trap latino|tropical,True,train
+16KDdey3vnSBWwqUZoe1cT,Quitate Tu Pa Ponerme Yo,Eddie Dee,Reggaeton Classics,0.765,0.768,2,-4.959,1,0.0742,0.18,0.0794,0.574,94.243,latin|latin hip hop|reggaeton|trap latino|tropical,True,train
+5lSASgj3h5dWTK7pr4vkBq,Quizas - Remix,Tony Dize,Reggaeton Classics,0.787,0.679,9,-4.913,1,0.0658,0.416,0.15,0.875,89.988,latin|latin hip hop|reggaeton|reggaeton flow|relaxative|trap latino|tropical,True,train
+1kQqiC1rS1FiuVpeBKN0QN,Rakata,Wisin & Yandel,Reggaeton Classics,0.872,0.786,1,-5.473,1,0.142,0.0348,0.0776,0.722,96.002,electro latino|latin|latin hip hop|reggaeton|trap latino|tropical,True,train
+2XRqhe4lmCQVaUWawR5wRo,Rica y Apretadita (feat. Anayka),El General,Reggaeton Classics,0.846,0.85,6,-5.707,1,0.0509,0.162,0.355,0.816,115.341,panamanian pop,True,train
+4Xtlw8oXkIOvzV7crUBKeZ,Rompe,Daddy Yankee,Reggaeton Classics,0.696,0.858,9,-5.155,1,0.0859,0.0727,0.0631,0.533,176.061,latin|latin hip hop|reggaeton|trap latino|tropical,True,train
+48NXpYRuvv9izul4oXhqS9,Salió El Sol,Don Omar,Reggaeton Classics,0.887,0.701,4,-5.892,0,0.0873,0.106,0.0466,0.965,110.002,latin|latin hip hop|puerto rican pop|reggaeton|trap latino|tropical,True,train
+5c9CsmVAhOQ5jQKwmNd5fk,Saoco,Wisin,Reggaeton Classics,0.844,0.862,4,-5.043,1,0.114,0.132,0.066,0.816,95.999,latin|latin hip hop|reggaeton|reggaeton flow|trap latino|tropical,True,train
+5clFSlfkCRlhnH1cAQjSBi,Sensacion Del Bloque,De La Ghetto,Reggaeton Classics,0.709,0.726,7,-7.129,1,0.0411,0.0977,0.301,0.404,92.006,latin|latin hip hop|reggaeton|reggaeton flow|trap latino|tropical,True,train
+7d05Cx72W1WsWUw7MAD7ia,Shorty,Casa De Leones,Reggaeton Classics,0.796,0.866,10,-6.087,0,0.0595,0.096,0.0561,0.877,94.991,latin|latin hip hop|reggaeton|reggaeton flow|trap latino|tropical,True,train
+40AGTob7V8pCDvvXERrCu3,Si No Cuidas Tu Mujer,Eddie Dee,Reggaeton Classics,0.509,0.672,9,-5.527,0,0.0639,0.281,0.355,0.81,100.102,latin|latin hip hop|reggaeton|trap latino|tropical,True,train
+6YyPA4dxemw23eGon3CjFX,Si No Le Contesto,Plan B,Reggaeton Classics,0.844,0.757,1,-4.61,0,0.0523,0.0945,0.16,0.532,94.977,latin|perreo|reggaeton|trap latino|tropical,True,train
+2iHr1co9ElgzHredwMNKOy,Siente El Boom,"Tito ""El Bambino""",Reggaeton Classics,0.804,0.745,4,-5.805,0,0.0744,0.112,0.0924,0.512,95.024,latin|latin hip hop|latin pop|reggaeton|reggaeton flow|trap latino|tropical,True,train
+2OikDCslmF1Y04Szgbc8Hl,"Sol, Playa Y Arena","Tito ""El Bambino""",Reggaeton Classics,0.822,0.656,5,-6.159,0,0.11,0.254,0.329,0.734,94.039,latin|latin hip hop|latin pop|reggaeton|reggaeton flow|trap latino|tropical,True,train
+4Zil8ro7fhQGVYXl2YYkO2,Soy Igual Que Tú,Alexis y Fido,Reggaeton Classics,0.852,0.66,2,-6.177,1,0.224,0.277,0.207,0.517,94.006,latin|latin hip hop|reggaeton|reggaeton flow|trap latino|tropical,True,train
+6g8su55d5ZpbMw01J7YrgE,Soy Una Gargola,Randy,Reggaeton Classics,0.763,0.616,4,-12.101,0,0.0552,0.0136,0.116,0.471,94.015,latin|latin hip hop|reggaeton|reggaeton flow|trap latino|tropical,True,train
+1NrKLroOjLcSXtlq8twPrc,"Te He Querido, Te He Llorado",Ivy Queen,Reggaeton Classics,0.776,0.857,11,-5.824,0,0.0598,0.29,0.125,0.552,95.02,latin|latin hip hop|rap latina|reggaeton|trap latino|tropical,True,test
+4UPeS038Mxup1H4bl0PsS8,Te Iré a Buscar,Farruko,Reggaeton Classics,0.735,0.742,6,-5.865,1,0.0474,0.0948,0.177,0.964,174.025,latin|latin hip hop|reggaeton|trap latino|tropical,True,train
+1Z4IqxukC6Yuer0nK7rC2R,Te Quiero,Flex,Reggaeton Classics,0.536,0.598,1,-9.608,1,0.0424,0.00314,0.319,0.465,83.946,cali rap,True,train
+0Gh6QG4Z1pSvIo7btP1Ux4,Te Suelto el Pelo,Yandel,Reggaeton Classics,0.792,0.712,11,-5.348,1,0.0665,0.0156,0.636,0.929,94.995,latin|latin hip hop|reggaeton|trap latino|tropical,True,train
+56vD8HM5H08hknJtMcNHOP,Te Ves Buena,El General,Reggaeton Classics,0.808,0.869,7,-6.971,1,0.0509,0.305,0.0983,0.848,92.165,panamanian pop,True,train
+1PtL0YQRtq3qxDGUSwZPJ5,Travesuras,Nicky Jam,Reggaeton Classics,0.77,0.79,10,-5.453,0,0.0814,0.139,0.0829,0.872,93.97,latin|latin hip hop|reggaeton|trap latino|tropical,True,train
+0Q7ZM15J0cJA9rd7pQYdRq,Tu Príncipe,Daddy Yankee,Reggaeton Classics,0.771,0.815,1,-5.423,0,0.0719,0.161,0.189,0.524,94.016,latin|latin hip hop|reggaeton|trap latino|tropical,True,test
+4EoDcHQ7lOj4RGgRibFLXh,Un Sueño,R.K.M & Ken-Y,Reggaeton Classics,0.794,0.741,1,-4.959,1,0.0622,0.157,0.309,0.805,95.006,latin|latin hip hop|reggaeton|reggaeton flow|trap latino|tropical,True,train
+2KtNeULMaw8sFkr8w13WWB,Ven Bailalo,Angel Y Khriz,Reggaeton Classics,0.675,0.921,4,-6.083,1,0.0365,0.0466,0.117,0.7,97.01,latin|latin hip hop|latin pop|reggaeton|trap latino|tropical,True,test
+5nJaS3PEpyPfaWiLxIGtRX,Virtual Diva,Don Omar,Reggaeton Classics,0.785,0.881,8,-4.205,0,0.0505,0.212,0.753,0.729,113.999,latin|latin hip hop|puerto rican pop|reggaeton|trap latino|tropical,True,train
+25GRgMoXezppQjLjSDLKf5,Voy a Beber,Nicky Jam,Reggaeton Classics,0.763,0.76,0,-4.672,1,0.0596,0.0392,0.133,0.916,163.969,latin|latin hip hop|reggaeton|trap latino|tropical,True,train
+10bbgurV9w05vJVGAX9jYq,Yo No Soy Tu Marido,Nicky Jam,Reggaeton Classics,0.807,0.643,10,-7.347,0,0.0522,0.0707,0.0865,0.821,94.983,latin|latin hip hop|reggaeton|trap latino|tropical,True,train
+7syG2WcnpcoJvxSZT9VbAa,Yo Te Lo Dije,J Balvin,Reggaeton Classics,0.746,0.617,3,-5.811,0,0.0734,0.0841,0.21,0.961,87.944,latin|reggaeton|reggaeton colombiano,True,train
+5gflgO9EPbIBf16n5TKnQS,Yo Voy (feat. Daddy Yankee),Zion & Lennox,Reggaeton Classics,0.808,0.697,10,-5.899,1,0.241,0.041,0.0546,0.554,95.06,latin|latin hip hop|reggaeton|trap latino|tropical,True,train
+2vWWy37CDlDlfPipzb4iIX,los Disicipulos,Eddie Dee,Reggaeton Classics,0.629,0.893,1,-4.009,0,0.275,0.181,0.115,0.86,94.042,latin|latin hip hop|reggaeton|trap latino|tropical,True,train

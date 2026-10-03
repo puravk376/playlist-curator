@@ -1,0 +1,10 @@
+model,train_acc,test_acc,cv_acc
+Majority class,0.0797,0.0794,
+Perceptron,0.8675,0.7460,
+Logistic Regression,0.9064,0.8056,
+Linear SVM,0.9303,0.7897,
+Poly SVM,0.4223,0.3175,
+Sigmoid SVM,0.8187,0.7778,
+RBF SVM,0.8546,0.7659,
+RBF SVM (tuned),0.8884,0.8016,0.7878
+Logistic Regression (tuned),0.8884,0.8056,0.8058

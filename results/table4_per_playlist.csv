@@ -1,0 +1,14 @@
+playlist,precision,recall,f1,support
+Southern Hip Hop,1.0000,1.0000,1.0000,18
+Reggaeton Classics,1.0000,1.0000,1.0000,20
+Permanent Wave,0.9444,0.8947,0.9189,19
+New Jack Swing,1.0000,0.8000,0.8889,20
+'80s Hard Rock,0.8500,0.8947,0.8718,19
+Rock Classics,0.8333,0.8824,0.8571,17
+Big Room House,0.7308,0.9500,0.8261,20
+Latin Pop Classics,1.0000,0.6500,0.7879,20
+Neo Soul Music,0.9286,0.6500,0.7647,20
+Lush Lofi,0.6800,0.8500,0.7556,20
+Electropop Hits,0.7143,0.7895,0.7500,19
+Trap Nation,0.6471,0.5500,0.5946,20
+Jazz Vibes,0.4615,0.6000,0.5217,20

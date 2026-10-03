@@ -1,0 +1,454 @@
+{
+  "cleaning": {
+    "main": {
+      "rows_selected": 1284,
+      "dropped_missing": 0,
+      "dropped_duplicates_within_playlist": 4,
+      "songs_in_multiple_playlists": 12,
+      "dropped_multi_playlist_rows": 24,
+      "final_tracks": 1256,
+      "tracks_with_genre_tags": 0.796
+    },
+    "easy": {
+      "rows_selected": 499,
+      "dropped_missing": 0,
+      "dropped_duplicates_within_playlist": 0,
+      "songs_in_multiple_playlists": 0,
+      "dropped_multi_playlist_rows": 0,
+      "final_tracks": 499,
+      "tracks_with_genre_tags": 0.711
+    },
+    "hard": {
+      "rows_selected": 465,
+      "dropped_missing": 0,
+      "dropped_duplicates_within_playlist": 2,
+      "songs_in_multiple_playlists": 19,
+      "dropped_multi_playlist_rows": 38,
+      "final_tracks": 425,
+      "tracks_with_genre_tags": 0.967
+    }
+  },
+  "main": {
+    "tracks": 1256,
+    "playlists": 13,
+    "train": 1004,
+    "test": 252,
+    "distinct_genre_tags": 388,
+    "tracks_with_genre_tags": 0.796
+  },
+  "scaled_vs_unscaled": [
+    {
+      "model": "Majority class",
+      "cv_mean_all": 0.0797,
+      "cv_std_all": 0.0002,
+      "cv_mean_audio": 0.0797,
+      "cv_std_audio": 0.0002,
+      "cv_mean_none": 0.0797,
+      "cv_std_none": 0.0002
+    },
+    {
+      "model": "Perceptron",
+      "cv_mean_all": 0.763,
+      "cv_std_all": 0.0258,
+      "cv_mean_audio": 0.751,
+      "cv_std_audio": 0.0416,
+      "cv_mean_none": 0.1493,
+      "cv_std_none": 0.0777
+    },
+    {
+      "model": "Logistic Regression",
+      "cv_mean_all": 0.7939,
+      "cv_std_all": 0.0289,
+      "cv_mean_audio": 0.7909,
+      "cv_std_audio": 0.0284,
+      "cv_mean_none": 0.7938,
+      "cv_std_none": 0.0311
+    },
+    {
+      "model": "Linear SVM",
+      "cv_mean_all": 0.744,
+      "cv_std_all": 0.0309,
+      "cv_mean_audio": 0.77,
+      "cv_std_audio": 0.0256,
+      "cv_mean_none": 0.7829,
+      "cv_std_none": 0.0257
+    },
+    {
+      "model": "Poly SVM",
+      "cv_mean_all": 0.3067,
+      "cv_std_all": 0.0206,
+      "cv_mean_audio": 0.7212,
+      "cv_std_audio": 0.0504,
+      "cv_mean_none": 0.1564,
+      "cv_std_none": 0.0092
+    },
+    {
+      "model": "Sigmoid SVM",
+      "cv_mean_all": 0.753,
+      "cv_std_all": 0.0357,
+      "cv_mean_audio": 0.761,
+      "cv_std_audio": 0.0373,
+      "cv_mean_none": 0.1086,
+      "cv_std_none": 0.0097
+    },
+    {
+      "model": "RBF SVM",
+      "cv_mean_all": 0.741,
+      "cv_std_all": 0.0205,
+      "cv_mean_audio": 0.7829,
+      "cv_std_audio": 0.0366,
+      "cv_mean_none": 0.1723,
+      "cv_std_none": 0.0274
+    }
+  ],
+  "genre_ablation": [
+    {
+      "model": "Majority class",
+      "audio_only": 0.0797,
+      "audio_only_std": 0.0002,
+      "with_genres_scale_all": 0.0797,
+      "with_genres_scale_audio": 0.0797,
+      "best_gain": 0.0
+    },
+    {
+      "model": "Perceptron",
+      "audio_only": 0.2848,
+      "audio_only_std": 0.0309,
+      "with_genres_scale_all": 0.763,
+      "with_genres_scale_audio": 0.751,
+      "best_gain": 0.4781
+    },
+    {
+      "model": "Logistic Regression",
+      "audio_only": 0.4303,
+      "audio_only_std": 0.0178,
+      "with_genres_scale_all": 0.7939,
+      "with_genres_scale_audio": 0.7909,
+      "best_gain": 0.3636
+    },
+    {
+      "model": "Linear SVM",
+      "audio_only": 0.4342,
+      "audio_only_std": 0.0194,
+      "with_genres_scale_all": 0.744,
+      "with_genres_scale_audio": 0.77,
+      "best_gain": 0.3357
+    },
+    {
+      "model": "Poly SVM",
+      "audio_only": 0.4114,
+      "audio_only_std": 0.0287,
+      "with_genres_scale_all": 0.3067,
+      "with_genres_scale_audio": 0.7212,
+      "best_gain": 0.3098
+    },
+    {
+      "model": "Sigmoid SVM",
+      "audio_only": 0.3864,
+      "audio_only_std": 0.0158,
+      "with_genres_scale_all": 0.753,
+      "with_genres_scale_audio": 0.761,
+      "best_gain": 0.3746
+    },
+    {
+      "model": "RBF SVM",
+      "audio_only": 0.4333,
+      "audio_only_std": 0.0244,
+      "with_genres_scale_all": 0.741,
+      "with_genres_scale_audio": 0.7829,
+      "best_gain": 0.3496
+    }
+  ],
+  "tuning": {
+    "rbf_svm": {
+      "params": {
+        "C": 10,
+        "gamma": 0.03,
+        "scale": "audio"
+      },
+      "cv": 0.789825870646766
+    },
+    "logistic": {
+      "params": {
+        "C": 0.1,
+        "scale": "all"
+      },
+      "cv": 0.8058009950248757
+    }
+  },
+  "test_scores_default": [
+    {
+      "model": "Majority class",
+      "train_acc_scale_all": 0.0797,
+      "test_acc_scale_all": 0.0794,
+      "train_acc_scale_audio": 0.0797,
+      "test_acc_scale_audio": 0.0794
+    },
+    {
+      "model": "Perceptron",
+      "train_acc_scale_all": 0.8675,
+      "test_acc_scale_all": 0.746,
+      "train_acc_scale_audio": 0.8586,
+      "test_acc_scale_audio": 0.7659
+    },
+    {
+      "model": "Logistic Regression",
+      "train_acc_scale_all": 0.9064,
+      "test_acc_scale_all": 0.8056,
+      "train_acc_scale_audio": 0.8894,
+      "test_acc_scale_audio": 0.7937
+    },
+    {
+      "model": "Linear SVM",
+      "train_acc_scale_all": 0.9303,
+      "test_acc_scale_all": 0.7897,
+      "train_acc_scale_audio": 0.9034,
+      "test_acc_scale_audio": 0.7937
+    },
+    {
+      "model": "Poly SVM",
+      "train_acc_scale_all": 0.4223,
+      "test_acc_scale_all": 0.3175,
+      "train_acc_scale_audio": 0.8884,
+      "test_acc_scale_audio": 0.7341
+    },
+    {
+      "model": "Sigmoid SVM",
+      "train_acc_scale_all": 0.8187,
+      "test_acc_scale_all": 0.7778,
+      "train_acc_scale_audio": 0.7819,
+      "test_acc_scale_audio": 0.75
+    },
+    {
+      "model": "RBF SVM",
+      "train_acc_scale_all": 0.8546,
+      "test_acc_scale_all": 0.7659,
+      "train_acc_scale_audio": 0.8984,
+      "test_acc_scale_audio": 0.7579
+    }
+  ],
+  "test_scores_tuned": [
+    {
+      "model": "RBF SVM (tuned)",
+      "train_acc": 0.9472,
+      "test_acc": 0.7817,
+      "cv_acc": 0.7898,
+      "chosen_params": "{'C': 10, 'gamma': 0.03, 'scale': 'audio'}"
+    },
+    {
+      "model": "Logistic Regression (tuned)",
+      "train_acc": 0.8884,
+      "test_acc": 0.8056,
+      "cv_acc": 0.8058,
+      "chosen_params": "{'C': 0.1, 'scale': 'all'}"
+    }
+  ],
+  "best_baseline": {
+    "model": "Logistic Regression (tuned)",
+    "accuracy": 0.8056,
+    "macro_precision": 0.83,
+    "macro_recall": 0.8086,
+    "macro_f1": 0.8106
+  },
+  "per_playlist": [
+    {
+      "playlist": "Southern Hip Hop",
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "support": 18
+    },
+    {
+      "playlist": "Reggaeton Classics",
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "support": 20
+    },
+    {
+      "playlist": "Permanent Wave",
+      "precision": 0.9444,
+      "recall": 0.8947,
+      "f1": 0.9189,
+      "support": 19
+    },
+    {
+      "playlist": "New Jack Swing",
+      "precision": 1.0,
+      "recall": 0.8,
+      "f1": 0.8889,
+      "support": 20
+    },
+    {
+      "playlist": "'80s Hard Rock",
+      "precision": 0.85,
+      "recall": 0.8947,
+      "f1": 0.8718,
+      "support": 19
+    },
+    {
+      "playlist": "Rock Classics",
+      "precision": 0.8333,
+      "recall": 0.8824,
+      "f1": 0.8571,
+      "support": 17
+    },
+    {
+      "playlist": "Big Room House",
+      "precision": 0.7308,
+      "recall": 0.95,
+      "f1": 0.8261,
+      "support": 20
+    },
+    {
+      "playlist": "Latin Pop Classics",
+      "precision": 1.0,
+      "recall": 0.65,
+      "f1": 0.7879,
+      "support": 20
+    },
+    {
+      "playlist": "Neo Soul Music",
+      "precision": 0.9286,
+      "recall": 0.65,
+      "f1": 0.7647,
+      "support": 20
+    },
+    {
+      "playlist": "Lush Lofi",
+      "precision": 0.68,
+      "recall": 0.85,
+      "f1": 0.7556,
+      "support": 20
+    },
+    {
+      "playlist": "Electropop Hits",
+      "precision": 0.7143,
+      "recall": 0.7895,
+      "f1": 0.75,
+      "support": 19
+    },
+    {
+      "playlist": "Trap Nation",
+      "precision": 0.6471,
+      "recall": 0.55,
+      "f1": 0.5946,
+      "support": 20
+    },
+    {
+      "playlist": "Jazz Vibes",
+      "precision": 0.4615,
+      "recall": 0.6,
+      "f1": 0.5217,
+      "support": 20
+    }
+  ],
+  "top_confusions": [
+    {
+      "true": "Jazz Vibes",
+      "predicted": "Lush Lofi",
+      "rate": 0.3
+    },
+    {
+      "true": "Neo Soul Music",
+      "predicted": "Jazz Vibes",
+      "rate": 0.2
+    },
+    {
+      "true": "Trap Nation",
+      "predicted": "Big Room House",
+      "rate": 0.15
+    },
+    {
+      "true": "Lush Lofi",
+      "predicted": "Jazz Vibes",
+      "rate": 0.15
+    },
+    {
+      "true": "Trap Nation",
+      "predicted": "Jazz Vibes",
+      "rate": 0.15
+    }
+  ],
+  "missing_tag_errors": {
+    "error_rate_with_tags": 0.1319796954314721,
+    "n_with_tags": 197,
+    "error_rate_without_tags": 0.41818181818181815,
+    "n_without_tags": 55,
+    "wrongly_sent_to_jazz_or_lofi": 22,
+    "of_those_without_tags": 19
+  },
+  "easy_vs_hard": {
+    "easy": 0.92,
+    "hard": 0.7059
+  },
+  "paper_toy": {
+    "tracks": 528,
+    "scaled_vs_unscaled": [
+      {
+        "model": "Majority class",
+        "cv_mean_all": 0.1683,
+        "cv_std_all": 0.0052,
+        "cv_mean_audio": 0.1683,
+        "cv_std_audio": 0.0052,
+        "cv_mean_none": 0.1683,
+        "cv_std_none": 0.0052
+      },
+      {
+        "model": "Perceptron",
+        "cv_mean_all": 0.6374,
+        "cv_std_all": 0.018,
+        "cv_mean_audio": 0.6636,
+        "cv_std_audio": 0.0581,
+        "cv_mean_none": 0.1495,
+        "cv_std_none": 0.0461
+      },
+      {
+        "model": "Logistic Regression",
+        "cv_mean_all": 0.6611,
+        "cv_std_all": 0.0448,
+        "cv_mean_audio": 0.7345,
+        "cv_std_audio": 0.0203,
+        "cv_mean_none": 0.7014,
+        "cv_std_none": 0.0279
+      },
+      {
+        "model": "Linear SVM",
+        "cv_mean_all": 0.635,
+        "cv_std_all": 0.0538,
+        "cv_mean_audio": 0.6564,
+        "cv_std_audio": 0.0117,
+        "cv_mean_none": 0.6754,
+        "cv_std_none": 0.0207
+      },
+      {
+        "model": "Poly SVM",
+        "cv_mean_all": 0.2962,
+        "cv_std_all": 0.0355,
+        "cv_mean_audio": 0.5142,
+        "cv_std_audio": 0.0402,
+        "cv_mean_none": 0.1683,
+        "cv_std_none": 0.0052
+      },
+      {
+        "model": "Sigmoid SVM",
+        "cv_mean_all": 0.6682,
+        "cv_std_all": 0.0508,
+        "cv_mean_audio": 0.6255,
+        "cv_std_audio": 0.0293,
+        "cv_mean_none": 0.173,
+        "cv_std_none": 0.0061
+      },
+      {
+        "model": "RBF SVM",
+        "cv_mean_all": 0.6089,
+        "cv_std_all": 0.0438,
+        "cv_mean_audio": 0.6612,
+        "cv_std_audio": 0.0342,
+        "cv_mean_none": 0.1683,
+        "cv_std_none": 0.0052
+      }
+    ],
+    "rbf_svm_tuned_test_acc": 0.6698
+  }
+}
