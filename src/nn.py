@@ -63,7 +63,7 @@ def seed_runs(pipeline, train_df, test_df, seeds=(0, 1, 2, 3, 4)):
     return pd.DataFrame(rows), models
 
 
-def epoch_curve(train_df, test_df, scale, hidden, activation, alpha, epochs=150, seed=config.SEED):
+def epoch_curve(train_df, test_df, scale, hidden, activation, alpha, epochs=600, seed=config.SEED):
     """Train / test accuracy after every epoch, like the paper's Figure 2.
 
     This is only for the plot (to show whether the model over-fits).
