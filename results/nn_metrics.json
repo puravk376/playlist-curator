@@ -1,0 +1,23 @@
+{
+  "chosen_params": {
+    "activation": "logistic",
+    "alpha": "0.001",
+    "hidden_layer_sizes": "(26,)",
+    "scale": "audio"
+  },
+  "cv_acc": 0.8018,
+  "test_acc_mean": 0.8063,
+  "test_acc_std": 0.0099,
+  "typical_seed": 4,
+  "typical_seed_metrics": {
+    "accuracy": 0.8056,
+    "macro_precision": 0.8278,
+    "macro_recall": 0.8085,
+    "macro_f1": 0.8114
+  },
+  "best_baseline": {
+    "model": "Logistic Regression (tuned)",
+    "test_acc": 0.806,
+    "macro_f1": 0.811
+  }
+}
