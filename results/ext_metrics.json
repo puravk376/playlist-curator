@@ -1,0 +1,18 @@
+{
+  "threshold": 0.65,
+  "target_cv_accuracy": 0.9,
+  "test_no_threshold": {
+    "coverage": 1.0,
+    "accuracy": 0.8056
+  },
+  "test_at_threshold": {
+    "coverage": 0.7698,
+    "accuracy_on_kept": 0.8969,
+    "errors_caught": 0.5918,
+    "correct_lost": 0.1429
+  },
+  "flag_rate_tagged": 0.1269,
+  "flag_rate_untagged": 0.6,
+  "unseen_playlist_flag_rate": 0.2538,
+  "known_playlist_flag_rate": 0.1336
+}
